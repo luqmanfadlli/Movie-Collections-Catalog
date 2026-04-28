@@ -1,6 +1,6 @@
 {
   "id": "app.movie.collections",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "name": "Movie Collections",
   "description": "Custom catalog for movie collections",
   "resources": ["catalog"],
@@ -51,6 +51,7 @@
     { "type": "movie", "id": "fantasticbeasts_collection", "name": "Fantastic Beasts Trilogy" },
     { "type": "movie", "id": "fastandfurious_collection", "name": "Fast & Furious Saga" },
     { "type": "movie", "id": "fault_collection", "name": "The Fault in Our Stars" },
+    { "type": "movie", "id": "fiftyshades_collection", "name": "Fifty Shades Collection" },
     { "type": "movie", "id": "finaldestination_collection", "name": "Final Destination Anthology" },
     { "type": "movie", "id": "findingnemo_collection", "name": "Finding Nemo Collection" },
     { "type": "movie", "id": "fnaf_collection", "name": "Five Nights at Freddy's" },
