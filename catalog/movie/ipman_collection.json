@@ -1,15 +1,16 @@
 {
   "metas": [
-    { "id": "tt1220719", "type": "movie", "name": "Ip Man", "poster":"Provided by AIOMetadata", "background":"Provided by AIOMetadata" },
-    { "id": "tt1386932", "type": "movie", "name": "Ip Man 2", "poster":"Provided by AIOMetadata", "background":"Provided by AIOMetadata" },
-    { "id": "tt1641638", "type": "movie", "name": "The Legend is Born: Ip Man", "poster":"Provided by AIOMetadata", "background":"Provided by AIOMetadata" },
-    { "id": "tt1462900", "type": "movie", "name": "The Grandmaster", "poster":"Provided by AIOMetadata", "background":"Provided by AIOMetadata" },
-    { "id": "tt2495118", "type": "movie", "name": "Ip Man: The Final Fight", "poster":"Provided by AIOMetadata", "background":"Provided by AIOMetadata" },
-    { "id": "tt7262882", "type": "movie", "name": "Master Z: The Ip Man Legacy", "poster":"Provided by AIOMetadata", "background":"Provided by AIOMetadata" },
-    { "id": "tt11199464", "type": "movie", "name": "Ip Man and The Four Kings", "poster":"Provided by AIOMetadata", "background":"Provided by AIOMetadata" },
-    { "id": "tt2076298", "type": "movie", "name": "Ip Man 4", "poster":"Provided by AIOMetadata", "background":"Provided by AIOMetadata" },
-    { "id": "tt12567246", "type": "movie", "name": "Ip Man: Kung Fu Master", "poster":"Provided by AIOMetadata", "background":"Provided by AIOMetadata" },
-    { "id": "tt13418144", "type": "movie", "name": "Young Ip Man: Crisis Time", "poster":"Provided by AIOMetadata", "background":"Provided by AIOMetadata" },
-    { "id": "tt21028848", "type": "movie", "name": "Ip Man: The Awakening", "poster":"Provided by AIOMetadata", "background":"Provided by AIOMetadata" }
+    { "id": "tmdb:14756", "type": "movie", "name": "Ip Man" },
+    { "id": "tmdb:37472", "type": "movie", "name": "Ip Man 2" },
+    { "id": "tmdb:365222", "type": "movie", "name": "Ip Man 3" },
+    { "id": "tmdb:449924", "type": "movie", "name": "Ip Man 4" },
+    { "id": "tt1641638", "type": "movie", "name": "The Legend is Born: Ip Man" },
+    { "id": "tt1462900", "type": "movie", "name": "The Grandmaster" },
+    { "id": "tt2495118", "type": "movie", "name": "Ip Man: The Final Fight" },
+    { "id": "tt7262882", "type": "movie", "name": "Master Z: The Ip Man Legacy" },
+    { "id": "tt11199464", "type": "movie", "name": "Ip Man and The Four Kings" },
+    { "id": "tt12567246", "type": "movie", "name": "Ip Man: Kung Fu Master" },
+    { "id": "tt13418144", "type": "movie", "name": "Young Ip Man: Crisis Time" },
+    { "id": "tt21028848", "type": "movie", "name": "Ip Man: The Awakening" }
   ]
 }
