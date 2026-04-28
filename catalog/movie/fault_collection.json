@@ -2,6 +2,9 @@
   "metas": [
     { "id": "tmdb:1010581", "type": "movie", "name": "My Fault" },
     { "id": "tmdb:1156593", "type": "movie", "name": "Your Fault" },
-    { "id": "tmdb:1156594", "type": "movie", "name": "Our Fault" }
+    { "id": "tmdb:1156594", "type": "movie", "name": "Our Fault" },
+    { "id": "tmdb:1294203", "type": "movie" },
+    { "id": "tmdb:1477317", "type": "movie" },
+    { "id": "tmdb:1477319", "type": "movie" }
   ]
 }
