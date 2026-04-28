@@ -1,0 +1,8 @@
+{
+  "metas": [
+    { "id": "tmdb:454626", "type": "movie", "name": "Sonic The Hedgehog" },
+    { "id": "tmdb:675353", "type": "movie", "name": "Sonic The Hedgehog 2" },
+    { "id": "tmdb:939243", "type": "movie", "name": "Sonic The Hedgehog 3" },
+    { "id": "tmdb:1401586", "type": "movie", "name": "Sonic The Hedgehog 4" }
+  ]
+}

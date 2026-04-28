@@ -1,0 +1,121 @@
+{
+  "id": "com.movie.collection",
+  "version": "0.0.1",
+  "name": "Movie Collections",
+  "description": "Custom catalog for movie collections",
+  "idPrefixes": ["tt", "tmdb:"],
+  "resources": ["catalog"],
+  "types": ["movie"],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "28daysweeksyears_collection",
+      "name": "28 Days/Weeks/Years"
+    },
+    {
+      "type": "movie",
+      "id": "after_collection",
+      "name": "After"
+    },
+    {
+      "type": "movie",
+      "id": "avatar_collection",
+      "name": "Avatar"
+    },
+    {
+      "type": "movie",
+      "id": "avengers_collection",
+      "name": "Avengers"
+    },
+    {
+      "type": "movie",
+      "id": "cars_collection",
+      "name": "Cars"
+    },
+    {
+      "type": "movie",
+      "id": "fault_collection",
+      "name": "Fault"
+    },
+    {
+      "type": "movie",
+      "id": "greenland_collection",
+      "name": "Greenland"
+    },
+    {
+      "type": "movie",
+      "id": "harrypotter_collection",
+      "name": "Harry Potter"
+    },
+    {
+      "type": "movie",
+      "id": "ipman_collection",
+      "name": "Ip Man"
+    },
+    {
+      "type": "movie",
+      "id": "kungfupanda_collection",
+      "name": "Kung Fu Panda"
+    },
+    {
+      "type": "movie",
+      "id": "lionking_collection",
+      "name": "The Lion King"
+    },
+    {
+      "type": "movie",
+      "id": "lotr_collection",
+      "name": "The Lord of the Rings"
+    },
+    {
+      "type": "movie",
+      "id": "nezha_collection",
+      "name": "Nezha"
+    },
+    {
+      "type": "movie",
+      "id": "sisu_collection",
+      "name": "Sisu"
+    },
+    {
+      "type": "movie",
+      "id": "sonic_collection",
+      "name": "Sonic the Hedgehog"
+    },
+    {
+      "type": "movie",
+      "id": "spiderman_collection",
+      "name": "Spider-Man"
+    },
+    {
+      "type": "movie",
+      "id": "spidermanmcu_collection",
+      "name": "Spider-Man (MCU)"
+    },
+    {
+      "type": "movie",
+      "id": "spiderverse_collection",
+      "name": "Spider-Verse"
+    },
+    {
+      "type": "movie",
+      "id": "supermario_collection",
+      "name": "Super Mario"
+    },
+    {
+      "type": "movie",
+      "id": "thefour_collection",
+      "name": "The Four"
+    },
+    {
+      "type": "movie",
+      "id": "topgun_collection",
+      "name": "Top Gun"
+    },
+    {
+      "type": "movie",
+      "id": "zootopia_collection",
+      "name": "Zootopia"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "metas": [
+    { "id": "tmdb:19995", "type": "movie", "name": "Avatar" },
+    { "id": "tmdb:76600", "type": "movie", "name": "Avatar: The Way of Water" },
+    { "id": "tmdb:83533", "type": "movie", "name": "Avatar: Fire and Ash" },
+    { "id": "tmdb:216527", "type": "movie", "name": "Avatar 4" },
+    { "id": "tmdb:393209", "type": "movie", "name": "Avatar 5" }
+  ]
+}

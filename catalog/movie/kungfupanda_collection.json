@@ -1,0 +1,8 @@
+{
+  "metas": [
+    { "id": "tmdb:9502", "type": "movie", "name": "Kung Fu Panda" },
+    { "id": "tmdb:49444", "type": "movie", "name": "Kung Fu Panda 2" },
+    { "id": "tmdb:140300", "type": "movie", "name": "Kung Fu Panda 3" },
+    { "id": "tmdb:1011985", "type": "movie", "name": "Kung Fu Panda 4" }
+  ]
+}

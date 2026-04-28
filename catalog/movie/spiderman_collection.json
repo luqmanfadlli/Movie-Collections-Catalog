@@ -1,0 +1,7 @@
+{
+  "metas": [
+    { "id": "tmdb:557", "type": "movie", "name": "Spider-Man" },
+    { "id": "tmdb:558", "type": "movie", "name": "Spider-Man 2" },
+    { "id": "tmdb:559", "type": "movie", "name": "Spider-Man 3" }
+  ]
+}

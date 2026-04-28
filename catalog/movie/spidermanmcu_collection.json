@@ -1,0 +1,8 @@
+{
+  "metas": [
+    { "id": "tmdb:315635", "type": "movie", "name": "Spider-Man: Homecoming" },
+    { "id": "tmdb:429617", "type": "movie", "name": "Spider-Man: Far From Home" },
+    { "id": "tmdb:634649", "type": "movie", "name": "Spider-Man: No Way Home" },
+    { "id": "tmdb:969681", "type": "movie", "name": "Spider-Man: Brand New Day" }
+  ]
+}

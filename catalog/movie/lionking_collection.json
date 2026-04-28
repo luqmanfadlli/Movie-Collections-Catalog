@@ -1,0 +1,9 @@
+{
+  "metas": [
+    { "id": "tmdb:8587", "type": "movie", "name": "The Lion King" },
+    { "id": "tmdb:9732", "type": "movie", "name": "The Lion King II: Simba's Pride" },
+    { "id": "tmdb:11430", "type": "movie", "name": "The Lion King 1.5" },
+    { "id": "tmdb:420818", "type": "movie", "name": "The Lion King" },
+    { "id": "tmdb:762509", "type": "movie", "name": "Mufasa: The Lion King" }
+  ]
+}
