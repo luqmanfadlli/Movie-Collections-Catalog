@@ -1,6 +1,6 @@
 {
   "id": "app.movie.collections",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "name": "Movie Collections",
   "description": "Custom catalog for movie collections",
   "resources": ["catalog"],
@@ -144,6 +144,7 @@
     { "type": "movie", "id": "sonic_collection", "name": "Sonic the Hedgehog" },
     { "type": "movie", "id": "spaceodyssey_collection", "name": "A Space Odyssey Collection" },
     { "type": "movie", "id": "spiderman_collection", "name": "Spider-Man Classics" },
+    { "type": "movie", "id": "spidermanamzg_collection", "name": "The Amazing Spider-Man" },
     { "type": "movie", "id": "spidermanmcu_collection", "name": "Spider-Man MCU Trilogy" },
     { "type": "movie", "id": "spiderverse_collection", "name": "Spider-Verse Collection" },
     { "type": "movie", "id": "spongebob_collection", "name": "SpongeBob Movies" },
