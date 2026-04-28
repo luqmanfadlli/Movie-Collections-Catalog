@@ -1,7 +1,7 @@
 {
   "metas": [
-    { "id": "tmdb:920", "type": "movie", "name": "Cars" },
-    { "id": "tmdb:49013", "type": "movie", "name": "Cars 2" },
-    { "id": "tmdb:260514", "type": "movie", "name": "Cars 3" }
+    { "id": "tmdb:920", "type": "movie", "name": "Cars", "poster":"Provided by AIOMetadata", "background":"Provided by AIOMetadata" },
+    { "id": "tmdb:49013", "type": "movie", "name": "Cars 2", "poster":"Provided by AIOMetadata", "background":"Provided by AIOMetadata" },
+    { "id": "tmdb:260514", "type": "movie", "name": "Cars 3", "poster":"Provided by AIOMetadata", "background":"Provided by AIOMetadata" }
   ]
 }
