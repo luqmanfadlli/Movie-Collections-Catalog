@@ -1,6 +1,6 @@
 {
   "id": "app.movie.collections",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "name": "Movie Collections",
   "description": "Custom catalog for movie collections",
   "resources": ["catalog"],
@@ -9,7 +9,6 @@
   "catalogs": [
     { "type": "movie", "id": "28daysweeksyears_collection", "name": "28 Days/Weeks/Years Later" },
     { "type": "movie", "id": "300_collection", "name": "300 Collection" },
-    { "type": "movie", "id": "Sin City_collection", "name": "Sin City Collection" },
     { "type": "movie", "id": "aceventura_collection", "name": "Ace Ventura Collection" },
     { "type": "movie", "id": "after_collection", "name": "After Collection" },
     { "type": "movie", "id": "aladdin_collection", "name": "Aladdin Anthology" },
@@ -137,6 +136,7 @@
     { "type": "movie", "id": "sherlockholmes_collection", "name": "Sherlock Holmes Collection" },
     { "type": "movie", "id": "shining_collection", "name": "The Shining / Doctor Sleep" },
     { "type": "movie", "id": "shrek_collection", "name": "Shrek Anthology" },
+    { "type": "movie", "id": "sincity_collection", "name": "Sin City Collection" },
     { "type": "movie", "id": "sisu_collection", "name": "Sisu Collection" },
     { "type": "movie", "id": "sonic_collection", "name": "Sonic the Hedgehog" },
     { "type": "movie", "id": "spaceodyssey_collection", "name": "A Space Odyssey Collection" },
