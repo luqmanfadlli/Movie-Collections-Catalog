@@ -1,6 +1,6 @@
 {
   "id": "app.movie.collections",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "name": "Movie Collections",
   "description": "Custom catalog for movie collections",
   "resources": ["catalog"],
@@ -128,8 +128,8 @@
     { "type": "movie", "id": "readyornot_collection", "name": "Ready or Not" },
     { "type": "movie", "id": "red_collection", "name": "RED (Retired Extremely Dangerous)" },
     { "type": "movie", "id": "redcliff_collection", "name": "Red Cliff Collection" },
-    { "type": "movie", "id": "ring_collection", "name": "The Ring US Saga" },
-    { "type": "movie", "id": "ring_collection", "name": "The Ring JP Collection" },
+    { "type": "movie", "id": "ringjp_collection", "name": "The Ring JP Collection" },
+    { "type": "movie", "id": "ringus_collection", "name": "The Ring US Saga" },
     { "type": "movie", "id": "rurounikenshin_collection", "name": "Rurouni Kenshin (Live Action)" },
     { "type": "movie", "id": "rushhour_collection", "name": "Rush Hour Collection" },
     { "type": "movie", "id": "saw_collection", "name": "SAW Anthology" },
