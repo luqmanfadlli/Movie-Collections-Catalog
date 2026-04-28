@@ -1,6 +1,6 @@
 {
   "id": "app.movie.collections",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "name": "Movie Collections",
   "description": "Custom catalog for movie collections",
   "resources": ["catalog"],
@@ -146,6 +146,7 @@
     { "type": "movie", "id": "spidermanmcu_collection", "name": "Spider-Man MCU Trilogy" },
     { "type": "movie", "id": "spiderverse_collection", "name": "Spider-Verse Collection" },
     { "type": "movie", "id": "spongebob_collection", "name": "SpongeBob Movies" },
+    { "type": "movie", "id": "standbyme_collection", "name": "Stand by Me Collection" },
     { "type": "movie", "id": "startrek_collection", "name": "Star Trek (Original & TNG)" },
     { "type": "movie", "id": "starwars_collection", "name": "Star Wars Saga" },
     { "type": "movie", "id": "suicidesquad_collection", "name": "Suicide Squad Collection" },
