@@ -547,7 +547,7 @@
         "id": "40000000-0000-4000-8000-000000000003",
         "title": "Blumhouse",
         "hideTitle": false,
-        "tileShape": "Square",
+        "tileShape": "SQUARE",
         "coverImageUrl": "https://media.themoviedb.org/t/p/original/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
         "catalogSources": [
           { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.blumhouse.mootwbke" }
@@ -1812,7 +1812,7 @@
         "title": "Ne Zha Saga",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/uY4ICaCkGIbDgiu7quRz5kfZXda.jpg	",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/uY4ICaCkGIbDgiu7quRz5kfZXda.jpg",
         "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.nezha_collection"}],
         "focusGifEnabled": true
       },

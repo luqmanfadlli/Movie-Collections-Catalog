@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "exportedAt": "2026-04-30T23:45:21.463Z",
+  "exportedAt": "2026-05-02T21:37:54.691Z",
   "config": {
     "mal": {
       "skipRecap": false,
@@ -3134,6 +3134,231 @@
         "showInHome": false
       },
       {
+        "id": "tmdb.discover.movie.20th_century_fox.moop7zb9",
+        "type": "movie",
+        "name": "20th Century Fox",
+        "enabled": true,
+        "showInHome": false,
+        "source": "tmdb",
+        "cacheTTL": 86400,
+        "metadata": {
+          "description": "TMDB Discover (movie)",
+          "url": "https://www.themoviedb.org/discover/movie?sort_by=popularity.desc&include_adult=false&with_companies=25&watch_region=US",
+          "discover": {
+            "version": 2,
+            "source": "tmdb",
+            "mediaType": "movie",
+            "params": {
+              "sort_by": "popularity.desc",
+              "include_adult": false,
+              "with_companies": "25",
+              "watch_region": "US"
+            },
+            "formState": {
+              "catalogName": "20th Century Fox",
+              "discoverSource": "tmdb",
+              "sortBy": "popularity.desc",
+              "cacheTTL": 86400,
+              "catalogType": "movie",
+              "includeGenres": [],
+              "excludeGenres": [],
+              "genreJoinMode": "or",
+              "originalLanguage": "",
+              "originCountry": "",
+              "certificationCountry": "",
+              "certificationValue": "",
+              "certificationMode": "exact",
+              "includeAdult": false,
+              "releasedOnly": false,
+              "selectedPeople": [],
+              "peopleJoinMode": "or",
+              "withCompanies": [
+                {
+                  "id": 25,
+                  "label": "20th Century Fox"
+                }
+              ],
+              "withoutCompanies": [],
+              "companyJoinMode": "or",
+              "withKeywords": [],
+              "withoutKeywords": [],
+              "keywordJoinMode": "or",
+              "watchRegion": "US",
+              "watchProviders": [],
+              "providerJoinMode": "or",
+              "voteAverageRange": [
+                0,
+                10
+              ],
+              "voteCountMin": 0,
+              "runtimeRange": [
+                0,
+                400
+              ],
+              "primaryReleaseFrom": "",
+              "primaryReleaseTo": "",
+              "movieDatePreset": "clear",
+              "firstAirFrom": "",
+              "firstAirTo": "",
+              "seriesDatePreset": "clear",
+              "airDateFrom": "",
+              "airDateTo": "",
+              "releaseRegion": ""
+            }
+          }
+        }
+      },
+      {
+        "id": "tmdb.discover.movie.a24.mooouy7k",
+        "type": "movie",
+        "name": "A24",
+        "enabled": true,
+        "showInHome": false,
+        "source": "tmdb",
+        "cacheTTL": 86400,
+        "metadata": {
+          "description": "TMDB Discover (movie)",
+          "url": "https://www.themoviedb.org/discover/movie?sort_by=popularity.desc&include_adult=false&with_companies=41077&watch_region=US",
+          "discover": {
+            "version": 2,
+            "source": "tmdb",
+            "mediaType": "movie",
+            "params": {
+              "sort_by": "popularity.desc",
+              "include_adult": false,
+              "with_companies": "41077",
+              "watch_region": "US"
+            },
+            "formState": {
+              "catalogName": "A24",
+              "discoverSource": "tmdb",
+              "sortBy": "popularity.desc",
+              "cacheTTL": 86400,
+              "catalogType": "movie",
+              "includeGenres": [],
+              "excludeGenres": [],
+              "genreJoinMode": "or",
+              "originalLanguage": "",
+              "originCountry": "",
+              "certificationCountry": "",
+              "certificationValue": "",
+              "certificationMode": "exact",
+              "includeAdult": false,
+              "releasedOnly": false,
+              "selectedPeople": [],
+              "peopleJoinMode": "or",
+              "withCompanies": [
+                {
+                  "id": 41077,
+                  "label": "A24"
+                }
+              ],
+              "withoutCompanies": [],
+              "companyJoinMode": "or",
+              "withKeywords": [],
+              "withoutKeywords": [],
+              "keywordJoinMode": "or",
+              "watchRegion": "US",
+              "watchProviders": [],
+              "providerJoinMode": "or",
+              "voteAverageRange": [
+                0,
+                10
+              ],
+              "voteCountMin": 0,
+              "runtimeRange": [
+                0,
+                400
+              ],
+              "primaryReleaseFrom": "",
+              "primaryReleaseTo": "",
+              "movieDatePreset": "clear",
+              "firstAirFrom": "",
+              "firstAirTo": "",
+              "seriesDatePreset": "clear",
+              "airDateFrom": "",
+              "airDateTo": "",
+              "releaseRegion": ""
+            }
+          }
+        }
+      },
+      {
+        "id": "tmdb.discover.movie.blumhouse.mootwbke",
+        "type": "movie",
+        "name": "Blumhouse",
+        "enabled": true,
+        "showInHome": false,
+        "source": "tmdb",
+        "cacheTTL": 86400,
+        "metadata": {
+          "description": "TMDB Discover (movie)",
+          "url": "https://www.themoviedb.org/discover/movie?sort_by=popularity.desc&include_adult=false&with_companies=3172&watch_region=US",
+          "discover": {
+            "version": 2,
+            "source": "tmdb",
+            "mediaType": "movie",
+            "params": {
+              "sort_by": "popularity.desc",
+              "include_adult": false,
+              "with_companies": "3172",
+              "watch_region": "US"
+            },
+            "formState": {
+              "catalogName": "Blumhouse",
+              "discoverSource": "tmdb",
+              "sortBy": "popularity.desc",
+              "cacheTTL": 86400,
+              "catalogType": "movie",
+              "includeGenres": [],
+              "excludeGenres": [],
+              "genreJoinMode": "or",
+              "originalLanguage": "",
+              "originCountry": "",
+              "certificationCountry": "",
+              "certificationValue": "",
+              "certificationMode": "exact",
+              "includeAdult": false,
+              "releasedOnly": false,
+              "selectedPeople": [],
+              "peopleJoinMode": "or",
+              "withCompanies": [
+                {
+                  "id": 3172,
+                  "label": "Blumhouse Productions"
+                }
+              ],
+              "withoutCompanies": [],
+              "companyJoinMode": "or",
+              "withKeywords": [],
+              "withoutKeywords": [],
+              "keywordJoinMode": "or",
+              "watchRegion": "US",
+              "watchProviders": [],
+              "providerJoinMode": "or",
+              "voteAverageRange": [
+                0,
+                10
+              ],
+              "voteCountMin": 0,
+              "runtimeRange": [
+                0,
+                400
+              ],
+              "primaryReleaseFrom": "",
+              "primaryReleaseTo": "",
+              "movieDatePreset": "clear",
+              "firstAirFrom": "",
+              "firstAirTo": "",
+              "seriesDatePreset": "clear",
+              "airDateFrom": "",
+              "airDateTo": "",
+              "releaseRegion": ""
+            }
+          }
+        }
+      },
+      {
         "id": "tmdb.discover.movie.castle_rock_entertainment.modhfng2",
         "name": "Castle Rock Entertainment",
         "type": "movie",
@@ -4027,6 +4252,81 @@
         "showInHome": false
       },
       {
+        "id": "tmdb.discover.movie.paramount.mootv89b",
+        "type": "movie",
+        "name": "Paramount Pictures",
+        "enabled": true,
+        "showInHome": false,
+        "source": "tmdb",
+        "cacheTTL": 86400,
+        "metadata": {
+          "description": "TMDB Discover (movie)",
+          "url": "https://www.themoviedb.org/discover/movie?sort_by=popularity.desc&include_adult=false&with_companies=4&watch_region=US",
+          "discover": {
+            "version": 2,
+            "source": "tmdb",
+            "mediaType": "movie",
+            "params": {
+              "sort_by": "popularity.desc",
+              "include_adult": false,
+              "with_companies": "4",
+              "watch_region": "US"
+            },
+            "formState": {
+              "catalogName": "Paramount Pictures",
+              "discoverSource": "tmdb",
+              "sortBy": "popularity.desc",
+              "cacheTTL": 86400,
+              "catalogType": "movie",
+              "includeGenres": [],
+              "excludeGenres": [],
+              "genreJoinMode": "or",
+              "originalLanguage": "",
+              "originCountry": "",
+              "certificationCountry": "",
+              "certificationValue": "",
+              "certificationMode": "exact",
+              "includeAdult": false,
+              "releasedOnly": false,
+              "selectedPeople": [],
+              "peopleJoinMode": "or",
+              "withCompanies": [
+                {
+                  "id": 4,
+                  "label": "Paramount Pictures"
+                }
+              ],
+              "withoutCompanies": [],
+              "companyJoinMode": "or",
+              "withKeywords": [],
+              "withoutKeywords": [],
+              "keywordJoinMode": "or",
+              "watchRegion": "US",
+              "watchProviders": [],
+              "providerJoinMode": "or",
+              "voteAverageRange": [
+                0,
+                10
+              ],
+              "voteCountMin": 0,
+              "runtimeRange": [
+                0,
+                400
+              ],
+              "primaryReleaseFrom": "",
+              "primaryReleaseTo": "",
+              "movieDatePreset": "clear",
+              "firstAirFrom": "",
+              "firstAirTo": "",
+              "seriesDatePreset": "clear",
+              "airDateFrom": "",
+              "airDateTo": "",
+              "releaseRegion": ""
+            }
+          }
+        }
+      },
+      {
         "id": "tmdb.discover.movie.pixar.modgv9sz",
         "name": "Pixar",
         "type": "movie",
@@ -4801,7 +5101,7 @@
         "enabled": true,
         "cacheTTL": 86400,
         "metadata": {
-          "url": "https://www.themoviedb.org/discover/movie?sort_by=popularity.desc&include_adult=false&with_original_language=id&without_companies=198702&with_release_type=4%7C5%7C6&release_date.lte=2026-04-29",
+          "url": "https://www.themoviedb.org/discover/movie?sort_by=popularity.desc&include_adult=false&with_original_language=id&without_companies=198702&with_release_type=4%7C5%7C6&release_date.lte=2026-05-01",
           "discover": {
             "params": {
               "sort_by": "popularity.desc",
@@ -4853,7 +5153,13 @@
                 0,
                 10
               ],
-              "withoutCompanies": [],
+              "withoutCompanies": [
+                {
+                  "id": 198702,
+                  "label": "Kelas Bintang"
+                }
+              ],
+              "certificationMode": "exact",
               "certificationValue": "",
               "primaryReleaseFrom": "",
               "certificationCountry": ""
@@ -4862,7 +5168,7 @@
           },
           "description": "TMDB Discover (movie)"
         },
-        "showInHome": true
+        "showInHome": false
       },
       {
         "id": "tmdb.discover.series.serial_lokal.mo3lcd9b",
@@ -4931,7 +5237,7 @@
           },
           "description": "TMDB Discover (tv)"
         },
-        "showInHome": true,
+        "showInHome": false,
         "displayType": "series"
       },
       {
@@ -4942,13 +5248,14 @@
         "enabled": true,
         "cacheTTL": 86400,
         "metadata": {
-          "url": "https://www.themoviedb.org/discover/movie?sort_by=popularity.desc&include_adult=false&with_genres=27&with_original_language=id",
+          "url": "https://www.themoviedb.org/discover/movie?sort_by=popularity.desc&include_adult=true&with_genres=27&with_original_language=id&without_companies=198702&watch_region=US",
           "discover": {
             "params": {
               "sort_by": "popularity.desc",
               "with_genres": "27",
               "watch_region": "US",
               "include_adult": true,
+              "without_companies": "198702",
               "with_original_language": "id"
             },
             "source": "tmdb",
@@ -4998,7 +5305,13 @@
                 0,
                 10
               ],
-              "withoutCompanies": [],
+              "withoutCompanies": [
+                {
+                  "id": 198702,
+                  "label": "Kelas Bintang"
+                }
+              ],
+              "certificationMode": "exact",
               "certificationValue": "",
               "primaryReleaseFrom": "",
               "certificationCountry": ""
@@ -5007,7 +5320,7 @@
           },
           "description": "TMDB Discover (movie)"
         },
-        "showInHome": true
+        "showInHome": false
       },
       {
         "id": "tmdb.discover.movie.horror_thailand.mo4t71lk",
@@ -5082,7 +5395,7 @@
           },
           "description": "TMDB Discover (movie)"
         },
-        "showInHome": true
+        "showInHome": false
       },
       {
         "id": "tmdb.discover.movie.horror_malaysia.mo4t84rv",
@@ -5157,7 +5470,7 @@
           },
           "description": "TMDB Discover (movie)"
         },
-        "showInHome": true
+        "showInHome": false
       },
       {
         "id": "tmdb.discover.movie.horror_korea.mo4tad1m",
@@ -5232,7 +5545,7 @@
           },
           "description": "TMDB Discover (movie)"
         },
-        "showInHome": true
+        "showInHome": false
       },
       {
         "id": "tmdb.discover.movie.horror_jepang.mo4tb86x",
@@ -5307,7 +5620,7 @@
           },
           "description": "TMDB Discover (movie)"
         },
-        "showInHome": true
+        "showInHome": false
       },
       {
         "id": "custom.app_movie_collections.movie.28daysweeksyears_collection",
@@ -5457,6 +5770,72 @@
           "type": "movie",
           "id": "alienromulus_collection",
           "name": "Alien: Romulus Saga",
+          "idPrefixes": [
+            "tt",
+            "tmdb:"
+          ]
+        }
+      },
+      {
+        "id": "custom.app_movie_collections.movie.alvinandthechipmunks_collection",
+        "type": "movie",
+        "name": "Alvin and the Chipmunks Collection",
+        "enabled": true,
+        "showInHome": false,
+        "source": "custom",
+        "sourceUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/catalog/movie/alvinandthechipmunks_collection.json",
+        "genres": [],
+        "cacheTTL": 86400,
+        "pageSize": 100,
+        "enableRatingPosters": true,
+        "manifestData": {
+          "type": "movie",
+          "id": "alvinandthechipmunks_collection",
+          "name": "Alvin and the Chipmunks Collection",
+          "idPrefixes": [
+            "tt",
+            "tmdb:"
+          ]
+        }
+      },
+      {
+        "id": "custom.app_movie_collections.movie.americanpie_collection",
+        "type": "movie",
+        "name": "American Pie Collection",
+        "enabled": true,
+        "showInHome": false,
+        "source": "custom",
+        "sourceUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/catalog/movie/americanpie_collection.json",
+        "genres": [],
+        "cacheTTL": 86400,
+        "pageSize": 100,
+        "enableRatingPosters": true,
+        "manifestData": {
+          "type": "movie",
+          "id": "americanpie_collection",
+          "name": "American Pie Collection",
+          "idPrefixes": [
+            "tt",
+            "tmdb:"
+          ]
+        }
+      },
+      {
+        "id": "custom.app_movie_collections.movie.americanpiepresents_collection",
+        "type": "movie",
+        "name": "American Pie (Spin-Off) Collection",
+        "enabled": true,
+        "showInHome": false,
+        "source": "custom",
+        "sourceUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/catalog/movie/americanpiepresents_collection.json",
+        "genres": [],
+        "cacheTTL": 86400,
+        "pageSize": 100,
+        "enableRatingPosters": true,
+        "manifestData": {
+          "type": "movie",
+          "id": "americanpiepresents_collection",
+          "name": "American Pie (Spin-Off) Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -5728,6 +6107,28 @@
         }
       },
       {
+        "id": "custom.app_movie_collections.movie.Blade_collection",
+        "type": "movie",
+        "name": "Blade Trilogy",
+        "enabled": true,
+        "showInHome": false,
+        "source": "custom",
+        "sourceUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/catalog/movie/Blade_collection.json",
+        "genres": [],
+        "cacheTTL": 86400,
+        "pageSize": 100,
+        "enableRatingPosters": true,
+        "manifestData": {
+          "type": "movie",
+          "id": "Blade_collection",
+          "name": "Blade Trilogy",
+          "idPrefixes": [
+            "tt",
+            "tmdb:"
+          ]
+        }
+      },
+      {
         "id": "custom.app_movie_collections.movie.bossbaby_collection",
         "type": "movie",
         "name": "The Boss Baby Collection",
@@ -5838,6 +6239,28 @@
         }
       },
       {
+        "id": "custom.app_movie_collections.movie.chickenrun_collection",
+        "type": "movie",
+        "name": "Chicken Run Collection",
+        "enabled": true,
+        "showInHome": false,
+        "source": "custom",
+        "sourceUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/catalog/movie/chickenrun_collection.json",
+        "genres": [],
+        "cacheTTL": 86400,
+        "pageSize": 100,
+        "enableRatingPosters": true,
+        "manifestData": {
+          "type": "movie",
+          "id": "chickenrun_collection",
+          "name": "Chicken Run Collection",
+          "idPrefixes": [
+            "tt",
+            "tmdb:"
+          ]
+        }
+      },
+      {
         "id": "custom.app_movie_collections.movie.conjuring_collection",
         "type": "movie",
         "name": "The Conjuring Universe",
@@ -5919,6 +6342,28 @@
           "type": "movie",
           "id": "deathnote_collection",
           "name": "Death Note (Live Action & Anime)",
+          "idPrefixes": [
+            "tt",
+            "tmdb:"
+          ]
+        }
+      },
+      {
+        "id": "custom.app_movie_collections.movie.deathrace_collection",
+        "type": "movie",
+        "name": "Dead Race Collection",
+        "enabled": true,
+        "showInHome": false,
+        "source": "custom",
+        "sourceUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/catalog/movie/deathrace_collection.json",
+        "genres": [],
+        "cacheTTL": 86400,
+        "pageSize": 100,
+        "enableRatingPosters": true,
+        "manifestData": {
+          "type": "movie",
+          "id": "deathrace_collection",
+          "name": "Dead Race Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -6073,6 +6518,28 @@
           "type": "movie",
           "id": "dora_collection",
           "name": "Dora the Explorer Movies",
+          "idPrefixes": [
+            "tt",
+            "tmdb:"
+          ]
+        }
+      },
+      {
+        "id": "custom.app_movie_collections.movie.dragonheart_collection",
+        "type": "movie",
+        "name": "Dragon Heart Collection",
+        "enabled": true,
+        "showInHome": false,
+        "source": "custom",
+        "sourceUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/catalog/movie/dragonheart_collection.json",
+        "genres": [],
+        "cacheTTL": 86400,
+        "pageSize": 100,
+        "enableRatingPosters": true,
+        "manifestData": {
+          "type": "movie",
+          "id": "dragonheart_collection",
+          "name": "Dragon Heart Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -6366,6 +6833,28 @@
         }
       },
       {
+        "id": "custom.app_movie_collections.movie.thefour_collection",
+        "type": "movie",
+        "name": "The Four Trilogy",
+        "enabled": true,
+        "showInHome": false,
+        "source": "custom",
+        "sourceUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/catalog/movie/thefour_collection.json",
+        "genres": [],
+        "cacheTTL": 86400,
+        "pageSize": 100,
+        "enableRatingPosters": true,
+        "manifestData": {
+          "type": "movie",
+          "id": "thefour_collection",
+          "name": "The Four Trilogy",
+          "idPrefixes": [
+            "tt",
+            "tmdb:"
+          ]
+        }
+      },
+      {
         "id": "custom.app_movie_collections.movie.frozen_collection",
         "type": "movie",
         "name": "Frozen Collection",
@@ -6579,6 +7068,28 @@
           "type": "movie",
           "id": "hangover_collection",
           "name": "The Hangover Trilogy",
+          "idPrefixes": [
+            "tt",
+            "tmdb:"
+          ]
+        }
+      },
+      {
+        "id": "custom.app_movie_collections.movie.happyfeet_collection",
+        "type": "movie",
+        "name": "Happy Feet Collection",
+        "enabled": true,
+        "showInHome": false,
+        "source": "custom",
+        "sourceUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/catalog/movie/happyfeet_collection.json",
+        "genres": [],
+        "cacheTTL": 86400,
+        "pageSize": 100,
+        "enableRatingPosters": true,
+        "manifestData": {
+          "type": "movie",
+          "id": "happyfeet_collection",
+          "name": "Happy Feet Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -7180,6 +7691,28 @@
         }
       },
       {
+        "id": "custom.app_movie_collections.movie.madagascar_collection",
+        "type": "movie",
+        "name": "Madagascar Collection",
+        "enabled": true,
+        "showInHome": false,
+        "source": "custom",
+        "sourceUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/catalog/movie/madagascar_collection.json",
+        "genres": [],
+        "cacheTTL": 86400,
+        "pageSize": 100,
+        "enableRatingPosters": true,
+        "manifestData": {
+          "type": "movie",
+          "id": "madagascar_collection",
+          "name": "Madagascar Collection",
+          "idPrefixes": [
+            "tt",
+            "tmdb:"
+          ]
+        }
+      },
+      {
         "id": "custom.app_movie_collections.movie.madmax_collection",
         "type": "movie",
         "name": "Mad Max Anthology",
@@ -7488,6 +8021,50 @@
         }
       },
       {
+        "id": "custom.app_movie_collections.movie.nationaltreasure_collection",
+        "type": "movie",
+        "name": "National Treasure Collection",
+        "enabled": true,
+        "showInHome": false,
+        "source": "custom",
+        "sourceUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/catalog/movie/nationaltreasure_collection.json",
+        "genres": [],
+        "cacheTTL": 86400,
+        "pageSize": 100,
+        "enableRatingPosters": true,
+        "manifestData": {
+          "type": "movie",
+          "id": "nationaltreasure_collection",
+          "name": "National Treasure Collection",
+          "idPrefixes": [
+            "tt",
+            "tmdb:"
+          ]
+        }
+      },
+      {
+        "id": "custom.app_movie_collections.movie.meighbors_collection",
+        "type": "movie",
+        "name": "Neighbors Collection",
+        "enabled": true,
+        "showInHome": false,
+        "source": "custom",
+        "sourceUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/catalog/movie/meighbors_collection.json",
+        "genres": [],
+        "cacheTTL": 86400,
+        "pageSize": 100,
+        "enableRatingPosters": true,
+        "manifestData": {
+          "type": "movie",
+          "id": "meighbors_collection",
+          "name": "Neighbors Collection",
+          "idPrefixes": [
+            "tt",
+            "tmdb:"
+          ]
+        }
+      },
+      {
         "id": "custom.app_movie_collections.movie.nezha_collection",
         "type": "movie",
         "name": "Ne Zha Saga",
@@ -7503,6 +8080,28 @@
           "type": "movie",
           "id": "nezha_collection",
           "name": "Ne Zha Saga",
+          "idPrefixes": [
+            "tt",
+            "tmdb:"
+          ]
+        }
+      },
+      {
+        "id": "custom.app_movie_collections.movie.nightatthemussem_collection",
+        "type": "movie",
+        "name": "Night at the Museum Collection",
+        "enabled": true,
+        "showInHome": false,
+        "source": "custom",
+        "sourceUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/catalog/movie/nightatthemussem_collection.json",
+        "genres": [],
+        "cacheTTL": 86400,
+        "pageSize": 100,
+        "enableRatingPosters": true,
+        "manifestData": {
+          "type": "movie",
+          "id": "nightatthemussem_collection",
+          "name": "Night at the Museum Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -8038,6 +8637,28 @@
         }
       },
       {
+        "id": "custom.app_movie_collections.movie.residenteil_collection",
+        "type": "movie",
+        "name": "Resident Evil Collection",
+        "enabled": true,
+        "showInHome": false,
+        "source": "custom",
+        "sourceUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/catalog/movie/residenteil_collection.json",
+        "genres": [],
+        "cacheTTL": 86400,
+        "pageSize": 100,
+        "enableRatingPosters": true,
+        "manifestData": {
+          "type": "movie",
+          "id": "residenteil_collection",
+          "name": "Resident Evil Collection",
+          "idPrefixes": [
+            "tt",
+            "tmdb:"
+          ]
+        }
+      },
+      {
         "id": "custom.app_movie_collections.movie.ringjp_collection",
         "type": "movie",
         "name": "The Ring JP Collection",
@@ -8075,6 +8696,28 @@
           "type": "movie",
           "id": "ringus_collection",
           "name": "The Ring US Saga",
+          "idPrefixes": [
+            "tt",
+            "tmdb:"
+          ]
+        }
+      },
+      {
+        "id": "custom.app_movie_collections.movie.roadtrip_collection",
+        "type": "movie",
+        "name": "Road Trip Collection",
+        "enabled": true,
+        "showInHome": false,
+        "source": "custom",
+        "sourceUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/catalog/movie/roadtrip_collection.json",
+        "genres": [],
+        "cacheTTL": 86400,
+        "pageSize": 100,
+        "enableRatingPosters": true,
+        "manifestData": {
+          "type": "movie",
+          "id": "roadtrip_collection",
+          "name": "Road Trip Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -8207,6 +8850,28 @@
           "type": "movie",
           "id": "scream_collection",
           "name": "Scream Anthology",
+          "idPrefixes": [
+            "tt",
+            "tmdb:"
+          ]
+        }
+      },
+      {
+        "id": "custom.app_movie_collections.movie.shaolintemple_collection",
+        "type": "movie",
+        "name": "Shaolin Temple Collection",
+        "enabled": true,
+        "showInHome": false,
+        "source": "custom",
+        "sourceUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/catalog/movie/shaolintemple_collection.json",
+        "genres": [],
+        "cacheTTL": 86400,
+        "pageSize": 100,
+        "enableRatingPosters": true,
+        "manifestData": {
+          "type": "movie",
+          "id": "shaolintemple_collection",
+          "name": "Shaolin Temple Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -8610,6 +9275,50 @@
         }
       },
       {
+        "id": "custom.app_movie_collections.movie.surfsup_collection",
+        "type": "movie",
+        "name": "Surf's Up Collection",
+        "enabled": true,
+        "showInHome": false,
+        "source": "custom",
+        "sourceUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/catalog/movie/surfsup_collection.json",
+        "genres": [],
+        "cacheTTL": 86400,
+        "pageSize": 100,
+        "enableRatingPosters": true,
+        "manifestData": {
+          "type": "movie",
+          "id": "surfsup_collection",
+          "name": "Surf's Up Collection",
+          "idPrefixes": [
+            "tt",
+            "tmdb:"
+          ]
+        }
+      },
+      {
+        "id": "custom.app_movie_collections.movie.taichi_collection",
+        "type": "movie",
+        "name": "Tai Chi Collection",
+        "enabled": true,
+        "showInHome": false,
+        "source": "custom",
+        "sourceUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/catalog/movie/taichi_collection.json",
+        "genres": [],
+        "cacheTTL": 86400,
+        "pageSize": 100,
+        "enableRatingPosters": true,
+        "manifestData": {
+          "type": "movie",
+          "id": "taichi_collection",
+          "name": "Tai Chi Collection",
+          "idPrefixes": [
+            "tt",
+            "tmdb:"
+          ]
+        }
+      },
+      {
         "id": "custom.app_movie_collections.movie.tangled_collection",
         "type": "movie",
         "name": "Tangled Collection",
@@ -8647,50 +9356,6 @@
           "type": "movie",
           "id": "terminator_collection",
           "name": "Terminator Anthology",
-          "idPrefixes": [
-            "tt",
-            "tmdb:"
-          ]
-        }
-      },
-      {
-        "id": "custom.app_movie_collections.movie.taichi_collection",
-        "type": "movie",
-        "name": "Tai Chi Collection",
-        "enabled": true,
-        "showInHome": false,
-        "source": "custom",
-        "sourceUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/catalog/movie/taichi_collection.json",
-        "genres": [],
-        "cacheTTL": 86400,
-        "pageSize": 100,
-        "enableRatingPosters": true,
-        "manifestData": {
-          "type": "movie",
-          "id": "taichi_collection",
-          "name": "Tai Chi Collection",
-          "idPrefixes": [
-            "tt",
-            "tmdb:"
-          ]
-        }
-      },
-      {
-        "id": "custom.app_movie_collections.movie.thefour_collection",
-        "type": "movie",
-        "name": "The Four Trilogy",
-        "enabled": true,
-        "showInHome": false,
-        "source": "custom",
-        "sourceUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/catalog/movie/thefour_collection.json",
-        "genres": [],
-        "cacheTTL": 86400,
-        "pageSize": 100,
-        "enableRatingPosters": true,
-        "manifestData": {
-          "type": "movie",
-          "id": "thefour_collection",
-          "name": "The Four Trilogy",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -8801,6 +9466,50 @@
           "type": "movie",
           "id": "transformers_collection",
           "name": "Transformers Saga",
+          "idPrefixes": [
+            "tt",
+            "tmdb:"
+          ]
+        }
+      },
+      {
+        "id": "custom.app_movie_collections.movie.tremors_collection",
+        "type": "movie",
+        "name": "Tremors Collection",
+        "enabled": true,
+        "showInHome": false,
+        "source": "custom",
+        "sourceUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/catalog/movie/tremors_collection.json",
+        "genres": [],
+        "cacheTTL": 86400,
+        "pageSize": 100,
+        "enableRatingPosters": true,
+        "manifestData": {
+          "type": "movie",
+          "id": "tremors_collection",
+          "name": "Tremors Collection",
+          "idPrefixes": [
+            "tt",
+            "tmdb:"
+          ]
+        }
+      },
+      {
+        "id": "custom.app_movie_collections.movie.underworld_collection",
+        "type": "movie",
+        "name": "Underworld Collection",
+        "enabled": true,
+        "showInHome": false,
+        "source": "custom",
+        "sourceUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/catalog/movie/underworld_collection.json",
+        "genres": [],
+        "cacheTTL": 86400,
+        "pageSize": 100,
+        "enableRatingPosters": true,
+        "manifestData": {
+          "type": "movie",
+          "id": "underworld_collection",
+          "name": "Underworld Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -8989,7 +9698,7 @@
       "dpe"
     ],
     "blurThumbs": false,
-    "configHash": "c22da4ce936e9f46",
+    "configHash": "fc1bd2887e908785",
     "showPrefix": false,
     "artProviders": {
       "anime": {
@@ -9010,8 +9719,8 @@
       "englishArtOnly": false
     },
     "includeAdult": false,
-    "lastModified": 1777589287416,
-    "configVersion": 1777589287417,
+    "lastModified": 1777594145259,
+    "configVersion": 1777594145260,
     "searchEnabled": true,
     "tvdbSeasonType": "default",
     "usePosterProxy": false,
@@ -9022,7 +9731,6 @@
     "hideWatchedAnilist": false,
     "hideWatchedMdblist": false,
     "simklWatchTracking": true,
-    "traktWatchTracking": true,
     "anilistWatchTracking": true,
     "catalogSetupComplete": true,
     "customLogoUrlPattern": "https://easyratingsdb.com/Tk-a7fac4c9b11fa72d6480ad142e6d15e1c18ab3c34ee05c1f/logo/{imdb_id}.jpg",
@@ -9040,7 +9748,7 @@
   },
   "metadata": {
     "apiKeysExcluded": true,
-    "totalCatalogs": 276,
-    "enabledCatalogs": 276
+    "totalCatalogs": 298,
+    "enabledCatalogs": 298
   }
 }
