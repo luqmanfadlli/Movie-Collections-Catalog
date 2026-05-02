@@ -1,7 +1,7 @@
 {
   "metas": [
-    { "id": "tt2204340", "type": "movie", "name": "The Four" },
-    { "id": "tt3341084", "type": "movie", "name": "The Four 2" },
-    { "id": "tt3919278", "type": "movie", "name": "The Four 3" }
+    { "id": "tmdb:120143", "type": "movie", "name": "The Four" },
+    { "id": "tmdb:251749", "type": "movie", "name": "The Four 2" },
+    { "id": "tmdb:299738", "type": "movie", "name": "The Four 3" }
   ]
 }

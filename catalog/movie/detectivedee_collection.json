@@ -1,11 +1,7 @@
 {
   "metas": [
-    { "id": "tt1123373", "type": "movie" },
-    { "id": "tt2992146", "type": "movie" },
-    { "id": "tt6869538", "type": "movie" },
-    { "id": "tt38267233", "type": "movie" },
-    { "id": "tt40320627", "type": "movie" },
-    { "id": "tt38267205", "type": "movie" },
-    { "id": "tt40970129", "type": "movie" },
+    { "id": "tmdb:48492", "type": "movie" },
+    { "id": "tmdb:217923", "type": "movie" },
+    { "id": "tmdb:506763", "type": "movie" }
   ]
 }

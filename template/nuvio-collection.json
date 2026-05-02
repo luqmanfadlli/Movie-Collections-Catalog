@@ -523,321 +523,277 @@
     "folders": [
       {
         "id": "40000000-0000-4000-8000-000000000001",
-        "title": "Castle Rock Entertainment",
+        "title": "20th Century Fox",
         "hideTitle": false,
-        "tileShape": "POSTER",
-        "coverImageUrl": null,
+        "tileShape": "SQUARE",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
         "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.castle_rock_entertainment.modhfng2"
-          }
+          { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.20th_century_fox.moop7zb9" }
         ],
         "focusGifEnabled": true
       },
       {
         "id": "40000000-0000-4000-8000-000000000002",
-        "title": "CJ Entertainment",
+        "title": "A24",
         "hideTitle": false,
-        "tileShape": "POSTER",
-        "coverImageUrl": null,
+        "tileShape": "SQUARE",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
         "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.cj_entertainment.modhomjd"
-          }
+          { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.a24.mooouy7k" }
         ],
         "focusGifEnabled": true
       },
       {
         "id": "40000000-0000-4000-8000-000000000003",
-        "title": "DC Films",
+        "title": "Blumhouse",
         "hideTitle": false,
-        "tileShape": "POSTER",
-        "coverImageUrl": null,
+        "tileShape": "Square",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
         "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.dc_films.mokuh84x"
-          }
+          { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.blumhouse.mootwbke" }
         ],
         "focusGifEnabled": true
       },
       {
         "id": "40000000-0000-4000-8000-000000000004",
-        "title": "DreamWorks Animation",
+        "title": "Castle Rock Entertainment",
         "hideTitle": false,
-        "tileShape": "POSTER",
-        "coverImageUrl": null,
+        "tileShape": "SQUARE",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/smyTD67uNsdaySnnjVDmh0kyotp.png",
         "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.dreamworks_animation.modh2la1"
-          }
+          { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.castle_rock_entertainment.modhfng2" }
         ],
         "focusGifEnabled": true
       },
       {
         "id": "40000000-0000-4000-8000-000000000005",
-        "title": "DreamWorks Pictures",
+        "title": "CJ Entertainment",
         "hideTitle": false,
-        "tileShape": "POSTER",
-        "coverImageUrl": null,
+        "tileShape": "SQUARE",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/javbyY0ZCvlFJtly3tpZqf2NwLX.png",
         "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.dreamworks_pictures.modh3ih8"
-          }
+          { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.cj_entertainment.modhomjd" }
         ],
         "focusGifEnabled": true
       },
       {
         "id": "40000000-0000-4000-8000-000000000006",
-        "title": "IDN Pictures",
+        "title": "DC Films",
         "hideTitle": false,
-        "tileShape": "POSTER",
-        "coverImageUrl": null,
+        "tileShape": "SQUARE",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
         "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.idn_pictures.mokur0ue"
-          }
+          { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.dc_films.mokuh84x" }
         ],
         "focusGifEnabled": true
       },
       {
         "id": "40000000-0000-4000-8000-000000000007",
-        "title": "Imajinari",
+        "title": "DreamWorks Animation",
         "hideTitle": false,
-        "tileShape": "POSTER",
-        "coverImageUrl": null,
+        "tileShape": "SQUARE",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/3BPX5VGBov8SDqTV7wC1L1xShAS.png",
         "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.imajinari.mokupjh7"
-          }
+          { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.dreamworks_animation.modh2la1" }
         ],
         "focusGifEnabled": true
       },
       {
         "id": "40000000-0000-4000-8000-000000000008",
-        "title": "Lionsgate",
+        "title": "DreamWorks Pictures",
         "hideTitle": false,
-        "tileShape": "POSTER",
-        "coverImageUrl": null,
+        "tileShape": "SQUARE",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/3BPX5VGBov8SDqTV7wC1L1xShAS.png",
         "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.lionsgate.mokuicz4"
-          }
+          { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.dreamworks_pictures.modh3ih8" }
         ],
         "focusGifEnabled": true
       },
       {
         "id": "40000000-0000-4000-8000-000000000009",
-        "title": "Marvel Studios",
+        "title": "IDN Pictures",
         "hideTitle": false,
-        "tileShape": "POSTER",
-        "coverImageUrl": null,
+        "tileShape": "SQUARE",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/3qmWxHJ31E12QiuTmv2YRDQInZk.png",
         "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.marvel_studios.modhqdnb"
-          }
+          { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.idn_pictures.mokur0ue" }
         ],
         "focusGifEnabled": true
       },
       {
         "id": "40000000-0000-4000-8000-000000000010",
-        "title": "MD Pictures",
+        "title": "Imajinari",
         "hideTitle": false,
-        "tileShape": "POSTER",
-        "coverImageUrl": null,
+        "tileShape": "SQUARE",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/wHlXlFytVFeJ2evm4eCD40IFIpp.png",
         "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.md_pictures.mokun8su"
-          }
+          { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.imajinari.mokupjh7" }
         ],
         "focusGifEnabled": true
       },
       {
         "id": "40000000-0000-4000-8000-000000000011",
-        "title": "Miramax",
+        "title": "Lionsgate",
         "hideTitle": false,
-        "tileShape": "POSTER",
-        "coverImageUrl": null,
+        "tileShape": "SQUARE",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
         "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.miramax.modhlre5"
-          }
+          { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.lionsgate.mokuicz4" }
         ],
         "focusGifEnabled": true
       },
       {
         "id": "40000000-0000-4000-8000-000000000012",
-        "title": "New Line Cinema",
+        "title": "Marvel Studios",
         "hideTitle": false,
-        "tileShape": "POSTER",
-        "coverImageUrl": null,
+        "tileShape": "SQUARE",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
         "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.new_line_cinema.modhkis9"
-          }
+          { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.marvel_studios.modhqdnb" }
         ],
         "focusGifEnabled": true
       },
       {
         "id": "40000000-0000-4000-8000-000000000013",
-        "title": "Pixar",
+        "title": "MD Pictures",
         "hideTitle": false,
-        "tileShape": "POSTER",
-        "coverImageUrl": null,
+        "tileShape": "SQUARE",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/QDZf41MZk122e61pZ4IDhwRGkW.png",
         "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.pixar.modgv9sz"
-          }
+          { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.md_pictures.mokun8su" }
         ],
         "focusGifEnabled": true
       },
       {
         "id": "40000000-0000-4000-8000-000000000014",
-        "title": "Rapi Films",
+        "title": "Miramax",
         "hideTitle": false,
-        "tileShape": "POSTER",
-        "coverImageUrl": null,
+        "tileShape": "SQUARE",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
         "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.rapi_film.mokxfeb3"
-          }
+          { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.miramax.modhlre5" }
         ],
         "focusGifEnabled": true
       },
       {
         "id": "40000000-0000-4000-8000-000000000015",
-        "title": "SinemArt",
+        "title": "New Line Cinema",
         "hideTitle": false,
-        "tileShape": "POSTER",
-        "coverImageUrl": null,
+        "tileShape": "SQUARE",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
         "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.sinemart.mokulam1"
-          }
+          { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.new_line_cinema.modhkis9" }
         ],
         "focusGifEnabled": true
       },
       {
         "id": "40000000-0000-4000-8000-000000000016",
-        "title": "Sony Pictures",
+        "title": "Paramount Pictures",
         "hideTitle": false,
-        "tileShape": "POSTER",
-        "coverImageUrl": null,
+        "tileShape": "SQUARE",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/jay6WcMgagAklUt7i9Euwj1pzTF.png",
         "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.sony_pictures.mokudzf7"
-          }
+          { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.paramount.mootv89b" }
         ],
         "focusGifEnabled": true
       },
       {
         "id": "40000000-0000-4000-8000-000000000017",
-        "title": "Studio Ghibli",
+        "title": "Pixar",
         "hideTitle": false,
-        "tileShape": "POSTER",
-        "coverImageUrl": null,
+        "tileShape": "SQUARE",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
         "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.studio_ghibli.modh0bi6"
-          }
+          { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.pixar.modgv9sz" }
         ],
         "focusGifEnabled": true
       },
       {
         "id": "40000000-0000-4000-8000-000000000018",
-        "title": "Universal Pictures",
+        "title": "Rapi Films",
         "hideTitle": false,
-        "tileShape": "POSTER",
-        "coverImageUrl": null,
+        "tileShape": "SQUARE",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/5zodgZbBTlY5PAviS6KxOCyOlGH.png",
         "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.universal_pictures.moku93zw"
-          }
+          { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.rapi_film.mokxfeb3" }
         ],
         "focusGifEnabled": true
       },
       {
         "id": "40000000-0000-4000-8000-000000000019",
-        "title": "Walt Disney Pictures",
+        "title": "SinemArt",
         "hideTitle": false,
-        "tileShape": "POSTER",
-        "coverImageUrl": null,
+        "tileShape": "SQUARE",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/yAqitOd5LbZ00ChUf4UqwxrWm6W.png",
         "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.walt_disney_pictures.modhcx6l"
-          }
+          { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.sinemart.mokulam1" }
         ],
         "focusGifEnabled": true
       },
       {
         "id": "40000000-0000-4000-8000-000000000020",
+        "title": "Sony Pictures",
+        "hideTitle": false,
+        "tileShape": "SQUARE",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/5jNRqXspCmQ3XkHNzuZIbvnHOWw.png",
+        "catalogSources": [
+          { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.sony_pictures.mokudzf7" }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "40000000-0000-4000-8000-000000000021",
+        "title": "Studio Ghibli",
+        "hideTitle": false,
+        "tileShape": "SQUARE",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/uFuxPEZRUcBTEiYIxjHJq62Vr77.png",
+        "catalogSources": [
+          { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.studio_ghibli.modh0bi6" }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "40000000-0000-4000-8000-000000000022",
+        "title": "Universal Pictures",
+        "hideTitle": false,
+        "tileShape": "SQUARE",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "catalogSources": [
+          { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.universal_pictures.moku93zw" }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "40000000-0000-4000-8000-000000000023",
+        "title": "Walt Disney Pictures",
+        "hideTitle": false,
+        "tileShape": "SQUARE",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "catalogSources": [
+          { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.walt_disney_pictures.modhcx6l" }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "40000000-0000-4000-8000-000000000024",
         "title": "Warner Bros Pictures",
         "hideTitle": false,
-        "tileShape": "POSTER",
-        "coverImageUrl": null,
+        "tileShape": "SQUARE",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
         "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.warner_bros_pictures.mokuc111"
-          }
+          { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.warner_bros_pictures.mokuc111" }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "40000000-0000-4000-8000-000000000025",
+        "title": "Vivamax",
+        "hideTitle": false,
+        "tileShape": "SQUARE",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/25oYoXHsfWYlddAzJSBReajN3BM.png",
+        "catalogSources": [
+          { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.vivamax.mokx4xgm" },
+          { "type": "series", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.series.vivamax.mokx5h2q" }
         ],
         "focusGifEnabled": true
       }
@@ -857,2933 +813,1655 @@
         "title": "28 Days/Weeks/Years Later",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
         "coverImageUrl": "https://www.themoviedb.org/t/p/original/2DMKMinwjGb45rC2nA4nr1JsT37.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.28daysweeksyears_collection"
-          }
-        ],
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.28daysweeksyears_collection"}],
         "focusGifEnabled": true
       },
       {
-        "id": "50000000-0000-4000-8000-00000000002",
+        "id": "50000000-0000-4000-8000-000000000002",
         "title": "300 Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
         "coverImageUrl": "https://www.themoviedb.org/t/p/original/nKQqh6kJvPdpOJD24enD3Bm1Hy5.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.300_collection"
-          }
-        ],
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.300_collection"}],
         "focusGifEnabled": true
       },
       {
-        "id": "50000000-0000-4000-8000-00000000003",
+        "id": "50000000-0000-4000-8000-000000000003",
         "title": "Ace Ventura Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
         "coverImageUrl": "https://www.themoviedb.org/t/p/original/qCxH543pScFed1CycwJ1nVgrkOc.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.aceventura_collection"
-          }
-        ],
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.aceventura_collection"}],
         "focusGifEnabled": true
       },
       {
-        "id": "50000000-0000-4000-8000-00000000004",
+        "id": "50000000-0000-4000-8000-000000000004",
         "title": "After Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
         "coverImageUrl": "https://www.themoviedb.org/t/p/original/oIcmMYCVrVUftMiO9tsniNnSNBc.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.after_collection"
-          }
-        ],
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.after_collection"}],
         "focusGifEnabled": true
       },
       {
-        "id": "50000000-0000-4000-8000-00000000005",
+        "id": "50000000-0000-4000-8000-000000000005",
         "title": "Aladdin Anthology",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
         "coverImageUrl": "https://www.themoviedb.org/t/p/original/fDyauH6Yc8IA5gtfq3IWHDwOve8.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.aladdin_collection"
-          }
-        ],
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.aladdin_collection"}],
         "focusGifEnabled": true
       },
       {
-        "id": "50000000-0000-4000-8000-00000000006",
+        "id": "50000000-0000-4000-8000-000000000006",
         "title": "Alien Anthology",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
         "coverImageUrl": "https://www.themoviedb.org/t/p/original/gWFHIY77cRVoBRGERwMHqpD27gc.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.alien_collection"
-          }
-        ],
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.alien_collection"}],
         "focusGifEnabled": true
       },
       {
-        "id": "50000000-0000-4000-8000-00000000007",
+        "id": "50000000-0000-4000-8000-000000000007",
         "title": "Alien: Romulus Saga",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
         "coverImageUrl": "https://www.themoviedb.org/t/p/original/pJdItyeP5Ep5oYoqHlPpX4BEnPC.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.alienromulus_collection"
-          }
-        ],
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.alienromulus_collection"}],
         "focusGifEnabled": true
       },
       {
-        "id": "50000000-0000-4000-8000-00000000008",
-        "title": "Angry Birds Collection",
+        "id": "50000000-0000-4000-8000-000000000008",
+        "title": "Alvin and the Chipmunks Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/ehoZnL5usVagZOJ2VccmqZKa8in.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.angrybirds_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/iNNpXUsi6tFTLT1M7U20xDMFSwk.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.alvinandthechipmunks_collection"}],
         "focusGifEnabled": true
       },
       {
-        "id": "50000000-0000-4000-8000-00000000009",
-        "title": "Ant-Man Trilogy",
+        "id": "50000000-0000-4000-8000-000000000009",
+        "title": "American Pie Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/9llE4J9sVv8qsvfVGkpugiPTxUV.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.antman_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/twY1eM88fu8CCGVtem5ItlrgeDA.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.americanpie_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000010",
-        "title": "Aquaman Collection",
+        "title": "American Pie (Spin-Off) Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/jhD3r3Jy2PcyKcyjWXFixesLz2p.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.aquaman_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/deSui9fZHgArlSmOGxRV1ZBqYTO.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.americanpiepresents_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000011",
-        "title": "Avatar Saga",
+        "title": "Angry Birds Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/3C5brXxnBxfkeKWwA1Fh4xvy4wr.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.avatar_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/ehoZnL5usVagZOJ2VccmqZKa8in.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.angrybirds_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000012",
-        "title": "Avengers Saga",
+        "title": "Ant-Man Trilogy",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/yFSIUVTCvgYrpalUktulvk3Gi5Y.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.avengers_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/9llE4J9sVv8qsvfVGkpugiPTxUV.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.antman_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000013",
-        "title": "Alien vs. Predator",
+        "title": "Aquaman Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/onE2OosgiHdjYXPoAD62sf0XsVa.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.avp_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/jhD3r3Jy2PcyKcyjWXFixesLz2p.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.aquaman_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000014",
-        "title": "Bad Boys Collection",
+        "title": "Avatar Saga",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/iB59poJBofg1ciKlu6LzZakf11m.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.badboys_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/3C5brXxnBxfkeKWwA1Fh4xvy4wr.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.avatar_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000015",
-        "title": "The Bad Guys Collection",
+        "title": "Avengers Saga",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/MvnERW28KnZ5fmxS73a27m3qhN.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.badguys_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/yFSIUVTCvgYrpalUktulvk3Gi5Y.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.avengers_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000016",
-        "title": "Batman Anthology",
+        "title": "Alien vs. Predator",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/31SwN5tZuJNsWTLx6DNNyQSAXdx.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.batman_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/onE2OosgiHdjYXPoAD62sf0XsVa.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.avp_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000017",
-        "title": "Beauty and the Beast",
+        "title": "Bad Boys Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/bSeNKX5JtMQOhC3arCHznIham2k.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.beautyandthebeast_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/iB59poJBofg1ciKlu6LzZakf11m.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.badboys_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000018",
-        "title": "Black Panther Collection",
+        "title": "The Bad Guys Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/VtMkk2s92SnDUt8eYyUyYaSJQK.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.blackpanther_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/MvnERW28KnZ5fmxS73a27m3qhN.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.badguys_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000019",
-        "title": "The Black Phone Collection",
+        "title": "Batman Anthology",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/sLA3wg5zKicSrpv1l9T537tJNEc.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.blackphone_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/31SwN5tZuJNsWTLx6DNNyQSAXdx.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.batman_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000020",
-        "title": "The Boss Baby Collection",
+        "title": "Beauty and the Beast",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/fj4qkq5ZaMUhCQTY8DJ95MJOxmF.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.bossbaby_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/bSeNKX5JtMQOhC3arCHznIham2k.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.beautyandthebeast_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000021",
-        "title": "The Bourne Saga",
+        "title": "Black Panther Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/q0ma8ozYaaol1IvdGjBvj3KllyL.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.bourne_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/VtMkk2s92SnDUt8eYyUyYaSJQK.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.blackpanther_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000022",
-        "title": "Back to the Future Trilogy",
+        "title": "The Black Phone Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/5Xsu2o5IsZRuuxCEVZ9nVve21FP.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.bttf_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/sLA3wg5zKicSrpv1l9T537tJNEc.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.blackphone_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000023",
-        "title": "Captain America Collection",
+        "title": "Blade Trilogy",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/2tOgiY533JSFp7OrVlkeRJvsZpI.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.captainamerica_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/vTXwJm2UC0Z0HwXTRmsMecGJErc.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.Blade_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000024",
-        "title": "Cars Collection",
+        "title": "The Boss Baby Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/uq3N2SFj1Y06zA6LzCQPkmBdaaE.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.cars_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/fj4qkq5ZaMUhCQTY8DJ95MJOxmF.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.bossbaby_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000025",
-        "title": "The Conjuring Universe",
+        "title": "The Bourne Saga",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/z5VKhNSQKQyxm0co68HAkCqHnmX.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.conjuring_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/q0ma8ozYaaol1IvdGjBvj3KllyL.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.bourne_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000026",
-        "title": "Crouching Tiger Hidden Dragon Collection",
+        "title": "Back to the Future Trilogy",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/8x9ajHWUm5K5rdMRvXe2vhjdLAk.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.crouchingtiger_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/5Xsu2o5IsZRuuxCEVZ9nVve21FP.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.bttf_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000027",
-        "title": "Deadpool Collection",
+        "title": "Captain America Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/30c5jO7YEXuF8KiWXLg9m28GWDA.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.deadpool_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/2tOgiY533JSFp7OrVlkeRJvsZpI.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.captainamerica_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000028",
-        "title": "Death Note (Live Action & Anime)",
+        "title": "Cars Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/jh35G1kYbqEOddhxny6KmRHc9FI.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.deathnote_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/uq3N2SFj1Y06zA6LzCQPkmBdaaE.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.cars_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000029",
-        "title": "Despicable Me Collection",
+        "title": "Chicken Run Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/xIXhIlZDRmSSfNbpN7kBCm5hg39.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.despicableme_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/rn3ZedQ6AfA60xG2WDe8FRIW29G.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.chickenrun_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000030",
-        "title": "Detective Conan Movies",
+        "title": "The Conjuring Universe",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/bV6EHK0Q65hHKSoVDeACbc960jQ.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.detectiveconan_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/z5VKhNSQKQyxm0co68HAkCqHnmX.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.conjuring_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000031",
-        "title": "Detective Dee Collection",
+        "title": "Crouching Tiger Hidden Dragon Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/v2WxMtq7BZx9ANPSl1noN124Eky.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.detectivedee_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/8x9ajHWUm5K5rdMRvXe2vhjdLAk.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.crouchingtiger_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000032",
-        "title": "Dhurandhar Collection",
+        "title": "Deadpool Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/r4w2Ps0QN9wzMHDepRoj4H7tAM.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.dhurandhar_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/30c5jO7YEXuF8KiWXLg9m28GWDA.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.deadpool_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000033",
-        "title": "Die Hard Anthology",
+        "title": "Death Note (Live Action & Anime)",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/xhnb5lVfwE7NHycdPNdIxHx7kZi.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.diehard_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/jh35G1kYbqEOddhxny6KmRHc9FI.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.deathnote_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000034",
-        "title": "Don't Breathe Collection",
+        "title": "Death Race Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/jb8j7x6fGxbSunCYgTVRARGn8ki.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.dontbreathe_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/QWsd92UlsTqGmUS2oR80jcNNRI.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.deathrace_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000035",
-        "title": "Dora the Explorer Movies",
+        "title": "Despicable Me Saga",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/t5vmcugG6kEAhXisnyyzFkyVKOK.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.dora_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/xIXhIlZDRmSSfNbpN7kBCm5hg39.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.despicableme_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000036",
-        "title": "Doctor Strange Collection",
+        "title": "Detective Conan Movies",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/bm7UlW3ctMJAvD6NNXrCDdRyyKn.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.drstrange_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/bV6EHK0Q65hHKSoVDeACbc960jQ.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.detectiveconan_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000037",
-        "title": "Drunken Master Collection",
+        "title": "Detective Dee Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/4YKqOyFW1IP4jyX1vy5BooM0dU.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.drunkenmaster_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/v2WxMtq7BZx9ANPSl1noN124Eky.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.detectivedee_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000038",
-        "title": "Dune Saga",
+        "title": "Dhurandhar Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/lxIGYkpvYjLtYtZH684AQft0FhD.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.dune_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/r4w2Ps0QN9wzMHDepRoj4H7tAM.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.dhurandhar_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000039",
-        "title": "The Equalizer Trilogy",
+        "title": "Die Hard Anthology",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/vIFxwPZvtTGBlPVSzhUr97pSKvI.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.equalizer_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/xhnb5lVfwE7NHycdPNdIxHx7kZi.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.diehard_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000040",
-        "title": "The Expendables Saga",
+        "title": "Don't Breathe Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/zwnCtNpHa6TFI1z20LPFgdY2Qks.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.expendables_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/jb8j7x6fGxbSunCYgTVRARGn8ki.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.dontbreathe_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000041",
-        "title": "The Family Plan",
+        "title": "Dora the Explorer Movies",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/etf8OuJwaVYCa9NfQTrpPoTvvbj.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.familyplan_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/t5vmcugG6kEAhXisnyyzFkyVKOK.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.dora_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000042",
-        "title": "Fantastic Beasts Trilogy",
+        "title": "Dragon Heart Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/wsVseA7i3FqX24m26Z2gD3EtH4l.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.fantasticbeasts_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/gG6mq5NZzGoUdYKgLduNGjo6ft9.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.dragonheart_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000043",
-        "title": "Fast & Furious Saga",
+        "title": "Doctor Strange Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/zOCnMPoUxgJK1RFPfN4PcnT16gr.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.fastandfurious_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/bm7UlW3ctMJAvD6NNXrCDdRyyKn.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.drstrange_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000044",
-        "title": "The Fault in Our Stars",
+        "title": "Drunken Master Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/fR3AsfNeAmgGCy2CMFaOjIaIuA7.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.fault_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/4YKqOyFW1IP4jyX1vy5BooM0dU.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.drunkenmaster_collection"}],
         "focusGifEnabled": true
       },
       {
-        "id": "b0000000-0000-4000-8000-000000000045",
-        "title": "Fifty Shades Collection",
+        "id": "50000000-0000-4000-8000-000000000045",
+        "title": "Dune Saga",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/29sMhnMJPHsbO2XHu35iQjk4eFR.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": null,
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.fiftyshades_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/lxIGYkpvYjLtYtZH684AQft0FhD.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.dune_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000046",
-        "title": "Final Destination Anthology",
+        "title": "The Equalizer Trilogy",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/nr4MXTXK2in9gxYhFMQGni66KRJ.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.finaldestination_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/vIFxwPZvtTGBlPVSzhUr97pSKvI.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.equalizer_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000047",
-        "title": "Finding Nemo Collection",
+        "title": "The Expendables Saga",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/cCovtlN16ykvyFYnzKyv3dFtceG.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.findingnemo_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/zwnCtNpHa6TFI1z20LPFgdY2Qks.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.expendables_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000048",
-        "title": "Five Nights at Freddy's",
+        "title": "The Family Plan",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/n1iWDJYYCWq0Tl2j6tVZlH7shDG.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.fnaf_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/etf8OuJwaVYCa9NfQTrpPoTvvbj.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.familyplan_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000049",
-        "title": "Frozen Collection",
+        "title": "Fantastic Beasts Trilogy",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/2DdKGQYzE6D7pSvvHvM9FRzTh5r.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.frozen_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/wsVseA7i3FqX24m26Z2gD3EtH4l.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.fantasticbeasts_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000050",
-        "title": "Ghostbusters Anthology",
+        "title": "Fast & Furious Saga",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/sctvCtE1M1rDF4f0W2fMrk2BrGB.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.ghostbusters_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/zOCnMPoUxgJK1RFPfN4PcnT16gr.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.fastandfurious_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000051",
-        "title": "The Girl with the Dragon Tattoo",
+        "title": "The Fault in Our Stars",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/eZEAiTIF3DrnWdDLz25ibINs5iJ.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.girldragon_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/fR3AsfNeAmgGCy2CMFaOjIaIuA7.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.fault_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000052",
-        "title": "Gladiator Saga",
+        "title": "Fifty Shades Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/41RyTMtScaSYJ5ZHwOrkv3NJKEv.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.gladiator_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/29sMhnMJPHsbO2XHu35iQjk4eFR.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.fiftyshades_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000053",
-        "title": "The Godfather Trilogy",
+        "title": "Final Destination Anthology",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/kKjIYmvpBUIxcYJ0LL9YZwv4nrZ.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.godfather_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/nr4MXTXK2in9gxYhFMQGni66KRJ.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.finaldestination_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000054",
-        "title": "MonsterVerse (Godzilla x Kong)",
+        "title": "Finding Nemo Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/m4JJ0c2vFu5QDGaMNnhjOLFgkJh.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.godzillaxkong_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/cCovtlN16ykvyFYnzKyv3dFtceG.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.findingnemo_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000055",
-        "title": "Goosebumps Collection",
+        "title": "Five Nights at Freddy's",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/p6M5HI4zEyUWI3BhEPry66SRuEp.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.goosebumps_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/n1iWDJYYCWq0Tl2j6tVZlH7shDG.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.fnaf_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000056",
-        "title": "Guardians of the Galaxy",
+        "title": "The Four Trilogy",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/kFWLxUwcSpiLzszZbxUIZT9g6WR.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.gotg_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/nlQoCcuAb4v3ejNZ1GZ0yxQoEvc.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.thefour_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000057",
-        "title": "Greenland Collection",
+        "title": "Frozen Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/e7nemBrXH4KeNbgT7RMscRz5KZS.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.greenland_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/2DdKGQYzE6D7pSvvHvM9FRzTh5r.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.frozen_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000058",
-        "title": "The Hangover Trilogy",
+        "title": "Ghostbusters Anthology",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/x8D6HXhmvdtPhM219J5Rc6ESagr.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.hangover_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/sctvCtE1M1rDF4f0W2fMrk2BrGB.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.ghostbusters_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000059",
-        "title": "Harry Potter Collection",
+        "title": "The Girl with the Dragon Tattoo",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/eVPs2Y0LyvTLZn6AP5Z6O2rtiGB.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.harrypotter_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/eZEAiTIF3DrnWdDLz25ibINs5iJ.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.girldragon_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000060",
-        "title": "The Hobbit Trilogy",
+        "title": "Gladiator Saga",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/5CdxtgYjQKgrkx6wXs6w2ZE2cKW.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.hobbit_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/41RyTMtScaSYJ5ZHwOrkv3NJKEv.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.gladiator_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000061",
-        "title": "How to Train Your Dragon",
+        "title": "The Godfather Trilogy",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/jkC6nE9Wzqxt77oSxlYtgIAOzhu.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.httyd_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/kKjIYmvpBUIxcYJ0LL9YZwv4nrZ.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.godfather_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000062",
-        "title": "The Hunger Games Saga",
+        "title": "Godzilla x Kong",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/cEBNDEMGqvSvU0knEv9Wl3dk5kv.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.hungergames_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/m4JJ0c2vFu5QDGaMNnhjOLFgkJh.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.godzillaxkong_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000063",
-        "title": "Ice Age Saga",
+        "title": "Goosebumps Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/stQoHvo0q6ZcEkji2Z1wlAxKnDq.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.iceage_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/p6M5HI4zEyUWI3BhEPry66SRuEp.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.goosebumps_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000064",
-        "title": "The Incredibles Collection",
+        "title": "Guardians of the Galaxy",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/l7GqbzkJwowYRIXAtUz2iCPi64a.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.incredibles_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/kFWLxUwcSpiLzszZbxUIZT9g6WR.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.gotg_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000065",
-        "title": "Indiana Jones Anthology",
+        "title": "Greenland Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/yJgGZ8YtSIUuTIwYBCs1TjcVrg4.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.indianajones_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/e7nemBrXH4KeNbgT7RMscRz5KZS.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.greenland_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000066",
-        "title": "Inside Out Collection",
+        "title": "The Hangover Trilogy",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/kvJqs0vm29U0xJa373wlzHb3FRh.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.insideout_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/x8D6HXhmvdtPhM219J5Rc6ESagr.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.hangover_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000067",
-        "title": "Insidious Anthology",
+        "title": "Happy Feet Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/fct5wsWu6niDIGRIC4aWEsN5Npa.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.insidious_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/4tSbl7vQJ1gkogQUKXowNgcM5yP.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.happyfeet_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000068",
-        "title": "Ip Man Saga",
+        "title": "Harry Potter Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/d5025iuay2UTeviFdu5zKKurfg4.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.ipman_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/eVPs2Y0LyvTLZn6AP5Z6O2rtiGB.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.harrypotter_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000069",
-        "title": "Iron Man Trilogy",
+        "title": "The Hobbit Trilogy",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/fbeJ7f0aD4A112Bc1tnpzyn82xO.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.ironman_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/5CdxtgYjQKgrkx6wXs6w2ZE2cKW.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.hobbit_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000070",
-        "title": "IT Collection",
+        "title": "How to Train Your Dragon",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/tZ55C7gPExwzvBLCsZMqFZMbB2I.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.it_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/jkC6nE9Wzqxt77oSxlYtgIAOzhu.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.httyd_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000071",
-        "title": "James Bond (007) Saga",
+        "title": "The Hunger Games Saga",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/ofwSiqOFShhunAIYYdSMHMJQSx2.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.jamesbond_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/cEBNDEMGqvSvU0knEv9Wl3dk5kv.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.hungergames_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000072",
-        "title": "Jaws Anthology",
+        "title": "Ice Age Saga",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/ckwrReFkBTHQ2con1Ewm3QSmfsQ.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.jaws_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/stQoHvo0q6ZcEkji2Z1wlAxKnDq.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.iceage_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000073",
-        "title": "John Wick Saga",
+        "title": "The Incredibles Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/sm7rZZivZm2NhJDucFf3gpfFdVt.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.johnwick_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/l7GqbzkJwowYRIXAtUz2iCPi64a.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.incredibles_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000074",
-        "title": "Joker Collection",
+        "title": "Indiana Jones Anthology",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/cI4Ng3oX0CEJiY3wMxcfszQZbcI.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.joker_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/yJgGZ8YtSIUuTIwYBCs1TjcVrg4.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.indianajones_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000075",
-        "title": "Jumanji Anthology",
+        "title": "Inside Out Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/oGQYrsC3t30ovgkBNlncbdBmkaP.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.jumanji_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/kvJqs0vm29U0xJa373wlzHb3FRh.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.insideout_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000076",
-        "title": "Jurassic Park & World",
+        "title": "Insidious Anthology",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/qIm2nHXLpBBdMxi8dvfrnDkBUDh.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.jurassic_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/fct5wsWu6niDIGRIC4aWEsN5Npa.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.insidious_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000077",
-        "title": "Kick-Ass Collection",
+        "title": "Ip Man Saga",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/gKjplfZZWmRMPoBdmJeTHCcGYxV.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.kickass_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/d5025iuay2UTeviFdu5zKKurfg4.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.ipman_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000078",
-        "title": "Kill Bill Collection",
+        "title": "Iron Man Trilogy",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/tf1nUtw3LJGUGv1EFFi23iz6ngr.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.killbill_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/fbeJ7f0aD4A112Bc1tnpzyn82xO.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.ironman_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000079",
-        "title": "Kingsman Collection",
+        "title": "IT Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/iR8L2XHA72wmYHc6O8LZmwV5hd5.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.kingsman_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/tZ55C7gPExwzvBLCsZMqFZMbB2I.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.it_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000080",
-        "title": "Knives Out (Benoit Blanc)",
+        "title": "James Bond (007) Saga",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/pkjW3K0UDnwYWDcUR83VzfHNQA4.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.knivesout_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/ofwSiqOFShhunAIYYdSMHMJQSx2.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.jamesbond_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000081",
-        "title": "Kung Fu Panda Saga",
+        "title": "Jaws Anthology",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/original/xoYc0RYKSc3xC4S9OpPZxKocKtj.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.kungfupanda_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/ckwrReFkBTHQ2con1Ewm3QSmfsQ.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.jaws_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000082",
-        "title": "Lilo & Stitch Collection",
+        "title": "John Wick Saga",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/blTiVxOSTXHDLCwH4vVqfmq1OYo.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.lilostitch_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/sm7rZZivZm2NhJDucFf3gpfFdVt.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.johnwick_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000083",
-        "title": "The Lion King Anthology",
+        "title": "Joker Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/oG1heUs503GV6xBnFhgyYTGWm05.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.lionking_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/cI4Ng3oX0CEJiY3wMxcfszQZbcI.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.joker_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000084",
-        "title": "The Lord of the Rings",
+        "title": "Jumanji Anthology",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/oENY593nKRVL2PnxXsMtlh8izb4.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.lotr_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/oGQYrsC3t30ovgkBNlncbdBmkaP.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.jumanji_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000085",
-        "title": "M3GAN Collection",
+        "title": "Jurassic Park & World",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/yHDAuqtZen92A6GQkDpdP65d51l.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.m3gan_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/qIm2nHXLpBBdMxi8dvfrnDkBUDh.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.jurassic_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000086",
-        "title": "Mad Max Anthology",
+        "title": "Kick-Ass Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/tRxkZboyyXnFgCthoViWBwISZ0r.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.madmax_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/gKjplfZZWmRMPoBdmJeTHCcGYxV.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.kickass_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000087",
-        "title": "Maleficent Collection",
+        "title": "Kill Bill Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/bRwN9bU1KTggwyXO8BjZa1FRvKt.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.maleficent_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/tf1nUtw3LJGUGv1EFFi23iz6ngr.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.killbill_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000088",
-        "title": "Mardaani Collection",
+        "title": "Kingsman Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/mcN3yJZqfABx96akPHawBQ0meZ3.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.mardaani_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/iR8L2XHA72wmYHc6O8LZmwV5hd5.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.kingsman_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000089",
-        "title": "The Mask Collection",
+        "title": "Knives Out (Benoit Blanc)",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/h0qeHjvUBb1J9J7fvRtVdfsy0qL.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.mask_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/pkjW3K0UDnwYWDcUR83VzfHNQA4.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.knivesout_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000090",
-        "title": "The Matrix Trilogy",
+        "title": "Kung Fu Panda Saga",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/yoCGQu30maQbttHwsi5Gqel4zTJ.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.matrix_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/xoYc0RYKSc3xC4S9OpPZxKocKtj.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.kungfupanda_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000091",
-        "title": "The Maze Runner Trilogy",
+        "title": "Lilo & Stitch Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/wQ0l9sq0Bm6OAeqY4w6NWjP9jwS.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.mazerunner_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/blTiVxOSTXHDLCwH4vVqfmq1OYo.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.lilostitch_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000092",
-        "title": "Men In Black Anthology",
+        "title": "The Lion King Anthology",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_face/rWcgZaoJ0nxTFRn0H6w9bdtoDUI.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.mib_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/oG1heUs503GV6xBnFhgyYTGWm05.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.lionking_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000093",
-        "title": "Minions Collection",
+        "title": "The Lord of the Rings Trilogy",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/9Ul4YrDQAKfkOf8TpV2RrjeLmaI.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.minions_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/oENY593nKRVL2PnxXsMtlh8izb4.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.lotr_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000094",
-        "title": "Mission: Impossible Saga",
+        "title": "M3GAN Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/geEjCGfdmRAA1skBPwojcdvnZ8A.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.missionimpossible_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/yHDAuqtZen92A6GQkDpdP65d51l.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.m3gan_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000095",
-        "title": "Monsters, Inc. Collection",
+        "title": "Madagascar Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/4Cp0L58Rg1bSJSsT6uw7OuU4nYc.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.monstersinc_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/UXIxsUbwMpv4v8xXRdT7LX58z9.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.madagascar_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000096",
-        "title": "Mortal Kombat Anthology",
+        "title": "Mad Max Anthology",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/fzMBv3Bu8sWdsCQJbtF0XhY4Q2X.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.mortalkombat_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/tRxkZboyyXnFgCthoViWBwISZ0r.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.madmax_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000097",
-        "title": "The Mummy Trilogy",
+        "title": "Maleficent Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/x5ZQsM90h4jmvDelgbCwPjcOn1s.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.mummy_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/bRwN9bU1KTggwyXO8BjZa1FRvKt.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.maleficent_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000098",
-        "title": "Chronicles of Narnia",
+        "title": "Mardaani Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/sh6Kn8VBfXotJ6qsvJkdfscxXKR.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.narnia_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/mcN3yJZqfABx96akPHawBQ0meZ3.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.mardaani_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000099",
-        "title": "Ne Zha Saga",
+        "title": "The Mask Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/uY4ICaCkGIbDgiu7quRz5kfZXda.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.nezha_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/h0qeHjvUBb1J9J7fvRtVdfsy0qL.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.mask_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000100",
-        "title": "A Nightmare on Elm Street",
+        "title": "The Matrix Trilogy",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_face/eBWCaPAACpQRQSTtYYAmNNWJQBD.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.nightmare_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/yoCGQu30maQbttHwsi5Gqel4zTJ.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.matrix_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000101",
-        "title": "Nobody Collection",
+        "title": "The Maze Runner Trilogy",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/zwELreUw3SvkzWbPGxFReaGBPzo.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.nobody_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/wQ0l9sq0Bm6OAeqY4w6NWjP9jwS.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.mazerunner_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000102",
-        "title": "Now You See Me Collection",
+        "title": "The Meg Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/j4d2ZDcFNx0Ov7KmRS2sgi2vkbO.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.nysm_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_face/dwNAr6tLXDBi9WKFNluf27xPju0.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.meg_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000103",
-        "title": "Ocean's Trilogy",
+        "title": "Men In Black Anthology",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/rMWeMGBftk6IxNW5mJVH8ZXAvuq.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.oceans_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_face/rWcgZaoJ0nxTFRn0H6w9bdtoDUI.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.mib_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000104",
-        "title": "Once Upon A Time in China",
+        "title": "Minions Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/7uB1oljT3id97xFWJlhZhJGeapg.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.onceuponatimeinchina_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/9Ul4YrDQAKfkOf8TpV2RrjeLmaI.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.minions_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000105",
-        "title": "One Piece Movies",
+        "title": "Mission: Impossible Saga",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/89eVIW6qPr2x6DrsphrqKQAoMRM.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.onepiece_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/geEjCGfdmRAA1skBPwojcdvnZ8A.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.missionimpossible_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000106",
-        "title": "Ong Bak Saga",
+        "title": "Monsters, Inc. Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/gG0gMDRnbOBLuKvRa0Q7naOD4yF.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.ongbak_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/4Cp0L58Rg1bSJSsT6uw7OuU4nYc.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.monstersinc_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000107",
-        "title": "Pacific Rim Collection",
+        "title": "Mortal Kombat Anthology",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/fmM3CboncxaslL2KMm4bl5oF7JE.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.pacificrim_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/fzMBv3Bu8sWdsCQJbtF0XhY4Q2X.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.mortalkombat_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000108",
-        "title": "Percy Jackson Collection",
+        "title": "The Mummy Trilogy",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/c84fnMsdDYxYRFhmGiTf3qWMF3.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.percyjackson_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/x5ZQsM90h4jmvDelgbCwPjcOn1s.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.mummy_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000109",
-        "title": "Planet of the Apes Saga",
+        "title": "Chronicles of Narnia",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/csY0Y0cvxaQrn5SS91y66V6oukb.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.planetoftheapes_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/sh6Kn8VBfXotJ6qsvJkdfscxXKR.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.narnia_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000110",
-        "title": "Police Story Collection",
+        "title": "National Treasure Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/oiZqu0nxnCg2JyvIIt2Y42I8BsZ.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.policestory_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/amMmIe1iWGtJpbUZzz3zs6WQNQz.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.nationaltreasure_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000111",
-        "title": "Poltergeist Trilogy",
+        "title": "Neighbors Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/5KRPLR2StT2nemK4LhDOEppw4G.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.poltergeist_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/iBPR2I6kByq7ZwBnwXVrYOHRj4U.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.meighbors_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000112",
-        "title": "Pirates of the Caribbean",
+        "title": "Ne Zha Saga",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/p9fXIvNppK21fCHAEkznSZb8hnv.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.potc_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/uY4ICaCkGIbDgiu7quRz5kfZXda.jpg	",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.nezha_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000113",
-        "title": "Predator Anthology",
+        "title": "Night at the Museum Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/mm2t5dd1QFxtX6X56Z9U5ucsIb1.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.predator_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/q2nwE0Qi8U6tsU5HDmiWS2D3dSJ.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.nightatthemussem_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000114",
-        "title": "Puss in Boots Collection",
+        "title": "A Nightmare on Elm Street",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/anHwj9IupRoRZZ98WTBvHpTiE6A.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.pussinboots_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/eBWCaPAACpQRQSTtYYAmNNWJQBD.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.nightmare_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000115",
-        "title": "Queen of Kung Fu Collection",
+        "title": "Nobody Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/18pj42inEJKM1c0Ang4JfXQNckS.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.queenofkungfu_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/zwELreUw3SvkzWbPGxFReaGBPzo.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.nobody_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000116",
-        "title": "A Quiet Place Saga",
+        "title": "Now You See Me Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/tTpzqy94CAQEQBoUJCZVichFesC.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.quietplace_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/j4d2ZDcFNx0Ov7KmRS2sgi2vkbO.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.nysm_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000117",
-        "title": "The Raid Collection",
+        "title": "Ocean's Trilogy",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/dXNof3qb8sY9QOmJ7jdU48ILH7e.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.raid_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/rMWeMGBftk6IxNW5mJVH8ZXAvuq.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.oceans_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000118",
-        "title": "Rambo Anthology",
+        "title": "Once Upon A Time in China",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/vbXqifae6PQ3sWIvuJoPjqqQxTY.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.rambo_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/7uB1oljT3id97xFWJlhZhJGeapg.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.onceuponatimeinchina_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000119",
-        "title": "Ready or Not",
+        "title": "One Piece Movies",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/i0MDcTw6YdY1YWKwe4p6qY8jPbX.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.readyornot_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/89eVIW6qPr2x6DrsphrqKQAoMRM.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.onepiece_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000120",
-        "title": "RED (Retired Extremely Dangerous)",
+        "title": "Ong Bak Saga",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/tY4RHjEGNtWhqReV24Y9DcAK5R5.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.red_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/gG0gMDRnbOBLuKvRa0Q7naOD4yF.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.ongbak_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000121",
-        "title": "Red Cliff Collection",
+        "title": "Pacific Rim Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/oTjHE2R7sZvOEYOw8ewggpM41fX.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.redcliff_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/fmM3CboncxaslL2KMm4bl5oF7JE.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.pacificrim_collection"}],
         "focusGifEnabled": true
       },
       {
-        "id": "b0000000-0000-4000-8000-000000000122",
-        "title": "The Ring JP Collection",
+        "id": "50000000-0000-4000-8000-000000000122",
+        "title": "Percy Jackson Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/biJHrhd2pm2ppOYg3XD7MFQjkcI.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.ringjp_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/c84fnMsdDYxYRFhmGiTf3qWMF3.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.percyjackson_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000123",
-        "title": "The Ring US Saga",
+        "title": "Planet of the Apes Saga",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/xk4Yrpz00gxitMLCLCUVOjvmkOq.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.ringus_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/csY0Y0cvxaQrn5SS91y66V6oukb.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.planetoftheapes_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000124",
-        "title": "Rurouni Kenshin (Live Action)",
+        "title": "Police Story Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/sAPD7HeLtDqTKmynWQvW5IwK6F0.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.rurounikenshin_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/oiZqu0nxnCg2JyvIIt2Y42I8BsZ.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.policestory_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000125",
-        "title": "Rush Hour Trilogy",
+        "title": "Poltergeist Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/pEvK2AoBnhC1RgqB7VRbBCMDq23.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.rushhour_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/5KRPLR2StT2nemK4LhDOEppw4G.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.poltergeist_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000126",
-        "title": "SAW Anthology",
+        "title": "Pirates of the Caribbean",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/w0zPElyuA5q2kjdfa2FdNYeS5Io.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.saw_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/p9fXIvNppK21fCHAEkznSZb8hnv.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.potc_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000127",
-        "title": "Scary Movie Anthology",
+        "title": "Predator Anthology",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/8ds74cRhyAza3WcDVT8rZycwSC9.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.scarymovie_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/mm2t5dd1QFxtX6X56Z9U5ucsIb1.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.predator_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000128",
-        "title": "The Scorpion King Saga",
+        "title": "The Punisher Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/qFVW76HRCJFRtTha1vZO1tjYVQ1.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.scorpionking_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/uirltOKTtjdxw3CUSMwbvxLl0o0.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.punisher_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000129",
-        "title": "Scream Anthology",
+        "title": "The Purge Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/p3EjClFy20jjT0u06dzBs4lvvhi.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.scream_collection"
-          }
-        ],
+        "coverImageUrl": "https://www.themoviedb.org/t/p/original/eO8KF89eSpsqtyLDMoqSQEj8OJK.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.purge_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000130",
-        "title": "Sherlock Holmes Collection",
+        "title": "Puss in Boots Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/xuYFmFESW4If76qRZvPwZSqWtiY.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.sherlockholmes_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/anHwj9IupRoRZZ98WTBvHpTiE6A.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.pussinboots_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000131",
-        "title": "The Shining / Doctor Sleep",
+        "title": "Queen of Kung Fu Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/iic9YD6zyz2mWIoHVaFy34N0MxX.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.shining_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/18pj42inEJKM1c0Ang4JfXQNckS.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.queenofkungfu_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000132",
-        "title": "Shrek Anthology",
+        "title": "A Quiet Place Saga",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/qNHZMe92A7Pyl46qUH29hVOtbSK.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.shrek_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/tTpzqy94CAQEQBoUJCZVichFesC.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.quietplace_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000133",
-        "title": "Sin City Collection",
+        "title": "The Raid Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/aGgHxGVmjssn7lw1ZucY5U2gI8K.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": null,
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.Sin City_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/dXNof3qb8sY9QOmJ7jdU48ILH7e.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.raid_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000134",
-        "title": "Sisu Collection",
+        "title": "Rambo Anthology",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/oq5yH0xnEHWZgqyeTWZs2xFghHO.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.sisu_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/vbXqifae6PQ3sWIvuJoPjqqQxTY.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.rambo_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000135",
-        "title": "Sonic the Hedgehog",
+        "title": "Ready or Not",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/1qtAVIWnx4vxmFEnZ3fDDbtMt8o.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.sonic_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/i0MDcTw6YdY1YWKwe4p6qY8jPbX.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.readyornot_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000136",
-        "title": "A Space Odyssey Collection",
+        "title": "RED (Retired Extremely Dangerous)",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/bxQaNDuSLCllnMSQ0ZLg7e6HrMW.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.spaceodyssey_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/tY4RHjEGNtWhqReV24Y9DcAK5R5.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.red_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000137",
-        "title": "Spider-Man Classics",
+        "title": "Red Cliff Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/2QFOLSlntyt2n4ReF5MrKX3phub.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.spiderman_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/oTjHE2R7sZvOEYOw8ewggpM41fX.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.redcliff_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000138",
-        "title": "The Amazing Spider-Man Collection",
+        "title": "Resident Evil Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/moNJa86FgDYy8SWeDym2gnsLLMa.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.spidermanamzg_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/bJXqRRb87ObiJZh8dKLFz6DO9TZ.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.residenteil_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000139",
-        "title": "Spider-Man MCU Trilogy",
+        "title": "The Ring JP Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/yeba3Y820OjApZO9aJevDsNeMEd.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.spidermanmcu_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/biJHrhd2pm2ppOYg3XD7MFQjkcI.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.ringjp_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000140",
-        "title": "Spider-Verse Collection",
+        "title": "The Ring US Saga",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/eD4bGQNfmqExIAzKdvX5gDHhI2.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.spiderverse_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/xk4Yrpz00gxitMLCLCUVOjvmkOq.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.ringus_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000141",
-        "title": "SpongeBob Movies",
+        "title": "Road Trip Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/caA0tTR0ye1DEnCAUIolrWajmfO.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.spongebob_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/cCLThx8zX9hyAVXOsSco8i8eO1O.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.roadtrip_collection"}],
         "focusGifEnabled": true
       },
       {
-        "id": "b0000000-0000-4000-8000-000000000142",
-        "title": "Stand by Me Collection",
+        "id": "50000000-0000-4000-8000-000000000142",
+        "title": "Rurouni Kenshin (Live Action)",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/lGcBVGVuhtdq4Ow0eC6zQBxuHOM.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": null,
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.standbyme_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/sAPD7HeLtDqTKmynWQvW5IwK6F0.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.rurounikenshin_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000143",
-        "title": "Star Trek (Original & TNG)",
+        "title": "Rush Hour Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/sddV6vaUC6x37icJS3opIXTXB07.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.startrek_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/pEvK2AoBnhC1RgqB7VRbBCMDq23.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.rushhour_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000144",
-        "title": "Star Wars Saga",
+        "title": "SAW Anthology",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/pWVLFh4OuejTpUaDQbB1C4zoS2p.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.starwars_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/w0zPElyuA5q2kjdfa2FdNYeS5Io.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.saw_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000145",
-        "title": "Suicide Squad Collection",
+        "title": "Scary Movie Anthology",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/ozjuw4b3UrTavZlmMCZFBqwNXym.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.suicidesquad_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/8ds74cRhyAza3WcDVT8rZycwSC9.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.scarymovie_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000146",
-        "title": "Superman Anthology",
+        "title": "The Scorpion King Saga",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/k1d3n4TJAGTF90x93QhL9jKUaXv.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.superman_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/qFVW76HRCJFRtTha1vZO1tjYVQ1.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.scorpionking_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000147",
-        "title": "Super Mario Bros. Collection",
+        "title": "Scream Anthology",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/8wVpJ4DCEVP6Ima1MgKgymZbYcz.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.supermario_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/p3EjClFy20jjT0u06dzBs4lvvhi.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.scream_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000148",
-        "title": "Tangled Collection",
+        "title": "Shaolin Temple Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/3iM2w88ZX0wFZffVLOfKc24h0bW.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.tangled_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/jwG2CwxBrN4aVpyTrSIDhiy6sD6.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.shaolintemple_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000149",
-        "title": "Terminator Anthology",
+        "title": "Sherlock Holmes Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/pF5GIijY2fyZcByqNDzhS8v4h1x.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.terminator_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/xuYFmFESW4If76qRZvPwZSqWtiY.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.sherlockholmes_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000150",
-        "title": "Tai Chi Collection",
+        "title": "The Shining / Doctor Sleep",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/rj4nUas9oRpUul73TRLWiC2RRRD.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.taichi_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/iic9YD6zyz2mWIoHVaFy34N0MxX.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.shining_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000151",
-        "title": "The Four Trilogy",
+        "title": "Shrek Anthology",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/nlQoCcuAb4v3ejNZ1GZ0yxQoEvc.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.thefour_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/qNHZMe92A7Pyl46qUH29hVOtbSK.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.shrek_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000152",
-        "title": "The Thing Collection",
+        "title": "Sin City Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/vnfxRM89Qav5d0fMluIwx1hKadc.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.thing_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/aGgHxGVmjssn7lw1ZucY5U2gI8K.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.sincity_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000153",
-        "title": "Thor Saga",
+        "title": "Sisu Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/1fGblAmaE2wU6ts2A83eWBgkmHs.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.thor_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/oq5yH0xnEHWZgqyeTWZs2xFghHO.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.sisu_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000154",
-        "title": "Top Gun Collection",
+        "title": "Sonic the Hedgehog",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/wtpIx0Gsra1IGHH8af5kNK90Xy8.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.topgun_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/1qtAVIWnx4vxmFEnZ3fDDbtMt8o.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.sonic_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000155",
-        "title": "Toy Story Anthology",
+        "title": "A Space Odyssey Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/j1Dfgl5rTdKeKewkRBrYPiZw6bO.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.toystory_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/bxQaNDuSLCllnMSQ0ZLg7e6HrMW.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.spaceodyssey_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000156",
-        "title": "Transformers Saga",
+        "title": "Spider-Man Classics",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/rSHTWSrNKS2EHC43yV0SLtcccX1.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.transformers_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/2QFOLSlntyt2n4ReF5MrKX3phub.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.spiderman_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000157",
-        "title": "The Witch Collection",
+        "title": "The Amazing Spider-Man",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/ovmtdDbgwYyUdE4vGwxi35HLdaw.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.witch_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/moNJa86FgDYy8SWeDym2gnsLLMa.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.spidermanamzg_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000158",
-        "title": "Wolverine Anthology",
+        "title": "Spider-Man MCU Trilogy",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/c18HVnKTybcAUYVQd8rOcdbqwY.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.wolverine_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/yeba3Y820OjApZO9aJevDsNeMEd.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.spidermanmcu_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000159",
-        "title": "Wonder Woman Collection",
+        "title": "Spider-Verse Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/8AQRfTuTHeFTddZN4IUAqprN8Od.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.wonderwoman_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/eD4bGQNfmqExIAzKdvX5gDHhI2.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.spiderverse_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000160",
-        "title": "X Saga",
+        "title": "SpongeBob Movies",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/sx2wSIspraPrQHHLg3A9oD09tXe.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.x_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/caA0tTR0ye1DEnCAUIolrWajmfO.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.spongebob_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000161",
-        "title": "X-Men Saga",
+        "title": "Stand by Me Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/31rqs6ZxFdi5nWZZaFPIr17q8jt.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.xmen_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/lGcBVGVuhtdq4Ow0eC6zQBxuHOM.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.standbyme_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000162",
-        "title": "Zombieland Collection",
+        "title": "Star Trek (Original & TNG)",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/kifmrcyyf8mPpV32uvBKekh2U8P.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.zombieland_collection"
-          }
-        ],
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/sddV6vaUC6x37icJS3opIXTXB07.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.startrek_collection"}],
         "focusGifEnabled": true
       },
       {
         "id": "50000000-0000-4000-8000-000000000163",
+        "title": "Star Wars Saga",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/pWVLFh4OuejTpUaDQbB1C4zoS2p.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.starwars_collection"}],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "50000000-0000-4000-8000-000000000164",
+        "title": "Suicide Squad Collection",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/ozjuw4b3UrTavZlmMCZFBqwNXym.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.suicidesquad_collection"}],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "50000000-0000-4000-8000-000000000165",
+        "title": "Superman Anthology",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/k1d3n4TJAGTF90x93QhL9jKUaXv.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.superman_collection"}],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "50000000-0000-4000-8000-000000000166",
+        "title": "Super Mario Bros. Collection",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/8wVpJ4DCEVP6Ima1MgKgymZbYcz.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.supermario_collection"}],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "50000000-0000-4000-8000-000000000167",
+        "title": "Surf's Up Collection",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": null,
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.surfsup_collection"}],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "50000000-0000-4000-8000-000000000168",
+        "title": "Tai Chi Collection",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/rj4nUas9oRpUul73TRLWiC2RRRD.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.taichi_collection"}],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "50000000-0000-4000-8000-000000000169",
+        "title": "Tangled Collection",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/3iM2w88ZX0wFZffVLOfKc24h0bW.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.tangled_collection"}],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "50000000-0000-4000-8000-000000000170",
+        "title": "Terminator Anthology",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/pF5GIijY2fyZcByqNDzhS8v4h1x.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.terminator_collection"}],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "50000000-0000-4000-8000-000000000171",
+        "title": "The Thing Collection",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/vnfxRM89Qav5d0fMluIwx1hKadc.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.thing_collection"}],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "50000000-0000-4000-8000-000000000172",
+        "title": "Thor Saga",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/1fGblAmaE2wU6ts2A83eWBgkmHs.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.thor_collection"}],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "50000000-0000-4000-8000-000000000173",
+        "title": "Top Gun Collection",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/wtpIx0Gsra1IGHH8af5kNK90Xy8.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.topgun_collection"}],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "50000000-0000-4000-8000-000000000174",
+        "title": "Toy Story Anthology",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/j1Dfgl5rTdKeKewkRBrYPiZw6bO.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.toystory_collection"}],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "50000000-0000-4000-8000-000000000175",
+        "title": "Transformers Saga",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/rSHTWSrNKS2EHC43yV0SLtcccX1.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.transformers_collection"}],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "50000000-0000-4000-8000-000000000176",
+        "title": "Tremors Collection",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/dvNb7S2jXGPfaAZFextA5ojvwrS.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.tremors_collection"}],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "50000000-0000-4000-8000-000000000177",
+        "title": "Underworld Collection",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/aK8qq0X0pZbf5ncE3JLQ27hdC4F.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.underworld_collection"}],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "50000000-0000-4000-8000-000000000178",
+        "title": "The Witch Collection",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/ovmtdDbgwYyUdE4vGwxi35HLdaw.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.witch_collection"}],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "50000000-0000-4000-8000-000000000179",
+        "title": "Wolverine Anthology",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/c18HVnKTybcAUYVQd8rOcdbqwY.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.wolverine_collection"}],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "50000000-0000-4000-8000-000000000180",
+        "title": "Wonder Woman Collection",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/8AQRfTuTHeFTddZN4IUAqprN8Od.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.wonderwoman_collection"}],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "50000000-0000-4000-8000-000000000181",
+        "title": "X Saga",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/sx2wSIspraPrQHHLg3A9oD09tXe.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.x_collection"}],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "50000000-0000-4000-8000-000000000182",
+        "title": "X-Men Saga",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/31rqs6ZxFdi5nWZZaFPIr17q8jt.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.xmen_collection"}],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "50000000-0000-4000-8000-000000000183",
+        "title": "Zombieland Collection",
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/kifmrcyyf8mPpV32uvBKekh2U8P.jpg",
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.zombieland_collection"}],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "50000000-0000-4000-8000-000000000184",
         "title": "Zootopia Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
         "coverImageUrl": "https://media.themoviedb.org/t/p/original/wFcoe9LQaqaaBCI5Ubj0Bpue5dh.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "genre": "None",
-            "addonId": "aio-metadata",
-            "catalogId": "custom.app_movie_collections.movie.zootopia_collection"
-          }
-        ],
+        "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.zootopia_collection"}],
         "focusGifEnabled": true
       }
     ]
