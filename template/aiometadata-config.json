@@ -5713,7 +5713,7 @@
       {
         "id": "custom.app_movie_collections.movie.aladdin_collection",
         "type": "movie",
-        "name": "Aladdin Anthology",
+        "name": "Aladdin Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -5725,7 +5725,7 @@
         "manifestData": {
           "type": "movie",
           "id": "aladdin_collection",
-          "name": "Aladdin Anthology",
+          "name": "Aladdin Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -5735,7 +5735,7 @@
       {
         "id": "custom.app_movie_collections.movie.alien_collection",
         "type": "movie",
-        "name": "Alien Anthology",
+        "name": "Alien Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -5747,7 +5747,7 @@
         "manifestData": {
           "type": "movie",
           "id": "alien_collection",
-          "name": "Alien Anthology",
+          "name": "Alien Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -5757,7 +5757,7 @@
       {
         "id": "custom.app_movie_collections.movie.alienromulus_collection",
         "type": "movie",
-        "name": "Alien: Romulus Saga",
+        "name": "Alien: Romulus Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -5769,7 +5769,7 @@
         "manifestData": {
           "type": "movie",
           "id": "alienromulus_collection",
-          "name": "Alien: Romulus Saga",
+          "name": "Alien: Romulus Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -5867,7 +5867,7 @@
       {
         "id": "custom.app_movie_collections.movie.antman_collection",
         "type": "movie",
-        "name": "Ant-Man Trilogy",
+        "name": "Ant-Man Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -5879,7 +5879,7 @@
         "manifestData": {
           "type": "movie",
           "id": "antman_collection",
-          "name": "Ant-Man Trilogy",
+          "name": "Ant-Man Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -5911,7 +5911,7 @@
       {
         "id": "custom.app_movie_collections.movie.avatar_collection",
         "type": "movie",
-        "name": "Avatar Saga",
+        "name": "Avatar Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -5923,7 +5923,7 @@
         "manifestData": {
           "type": "movie",
           "id": "avatar_collection",
-          "name": "Avatar Saga",
+          "name": "Avatar Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -5933,7 +5933,7 @@
       {
         "id": "custom.app_movie_collections.movie.avengers_collection",
         "type": "movie",
-        "name": "Avengers Saga",
+        "name": "Avengers Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -5945,7 +5945,7 @@
         "manifestData": {
           "type": "movie",
           "id": "avengers_collection",
-          "name": "Avengers Saga",
+          "name": "Avengers Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -6021,7 +6021,7 @@
       {
         "id": "custom.app_movie_collections.movie.batman_collection",
         "type": "movie",
-        "name": "Batman Anthology",
+        "name": "Batman Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -6033,7 +6033,7 @@
         "manifestData": {
           "type": "movie",
           "id": "batman_collection",
-          "name": "Batman Anthology",
+          "name": "Batman Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -6109,7 +6109,7 @@
       {
         "id": "custom.app_movie_collections.movie.Blade_collection",
         "type": "movie",
-        "name": "Blade Trilogy",
+        "name": "Blade Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -6121,7 +6121,7 @@
         "manifestData": {
           "type": "movie",
           "id": "Blade_collection",
-          "name": "Blade Trilogy",
+          "name": "Blade Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -6153,7 +6153,7 @@
       {
         "id": "custom.app_movie_collections.movie.bourne_collection",
         "type": "movie",
-        "name": "The Bourne Saga",
+        "name": "The Bourne Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -6165,7 +6165,7 @@
         "manifestData": {
           "type": "movie",
           "id": "bourne_collection",
-          "name": "The Bourne Saga",
+          "name": "The Bourne Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -6175,7 +6175,7 @@
       {
         "id": "custom.app_movie_collections.movie.bttf_collection",
         "type": "movie",
-        "name": "Back to the Future Trilogy",
+        "name": "Back to the Future Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -6187,7 +6187,7 @@
         "manifestData": {
           "type": "movie",
           "id": "bttf_collection",
-          "name": "Back to the Future Trilogy",
+          "name": "Back to the Future Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -6373,7 +6373,7 @@
       {
         "id": "custom.app_movie_collections.movie.despicableme_collection",
         "type": "movie",
-        "name": "Despicable Me Saga",
+        "name": "Despicable Me Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -6385,7 +6385,7 @@
         "manifestData": {
           "type": "movie",
           "id": "despicableme_collection",
-          "name": "Despicable Me Saga",
+          "name": "Despicable Me Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -6461,7 +6461,7 @@
       {
         "id": "custom.app_movie_collections.movie.diehard_collection",
         "type": "movie",
-        "name": "Die Hard Anthology",
+        "name": "Die Hard Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -6473,7 +6473,7 @@
         "manifestData": {
           "type": "movie",
           "id": "diehard_collection",
-          "name": "Die Hard Anthology",
+          "name": "Die Hard Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -6593,7 +6593,7 @@
       {
         "id": "custom.app_movie_collections.movie.dune_collection",
         "type": "movie",
-        "name": "Dune Saga",
+        "name": "Dune Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -6605,7 +6605,7 @@
         "manifestData": {
           "type": "movie",
           "id": "dune_collection",
-          "name": "Dune Saga",
+          "name": "Dune Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -6615,7 +6615,7 @@
       {
         "id": "custom.app_movie_collections.movie.equalizer_collection",
         "type": "movie",
-        "name": "The Equalizer Trilogy",
+        "name": "The Equalizer Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -6627,7 +6627,7 @@
         "manifestData": {
           "type": "movie",
           "id": "equalizer_collection",
-          "name": "The Equalizer Trilogy",
+          "name": "The Equalizer Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -6637,7 +6637,7 @@
       {
         "id": "custom.app_movie_collections.movie.expendables_collection",
         "type": "movie",
-        "name": "The Expendables Saga",
+        "name": "The Expendables Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -6649,7 +6649,7 @@
         "manifestData": {
           "type": "movie",
           "id": "expendables_collection",
-          "name": "The Expendables Saga",
+          "name": "The Expendables Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -6681,7 +6681,7 @@
       {
         "id": "custom.app_movie_collections.movie.fantasticbeasts_collection",
         "type": "movie",
-        "name": "Fantastic Beasts Trilogy",
+        "name": "Fantastic Beasts Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -6693,7 +6693,7 @@
         "manifestData": {
           "type": "movie",
           "id": "fantasticbeasts_collection",
-          "name": "Fantastic Beasts Trilogy",
+          "name": "Fantastic Beasts Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -6703,7 +6703,7 @@
       {
         "id": "custom.app_movie_collections.movie.fastandfurious_collection",
         "type": "movie",
-        "name": "Fast & Furious Saga",
+        "name": "Fast & Furious Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -6715,7 +6715,7 @@
         "manifestData": {
           "type": "movie",
           "id": "fastandfurious_collection",
-          "name": "Fast & Furious Saga",
+          "name": "Fast & Furious Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -6769,7 +6769,7 @@
       {
         "id": "custom.app_movie_collections.movie.finaldestination_collection",
         "type": "movie",
-        "name": "Final Destination Anthology",
+        "name": "Final Destination Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -6781,7 +6781,7 @@
         "manifestData": {
           "type": "movie",
           "id": "finaldestination_collection",
-          "name": "Final Destination Anthology",
+          "name": "Final Destination Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -6835,7 +6835,7 @@
       {
         "id": "custom.app_movie_collections.movie.thefour_collection",
         "type": "movie",
-        "name": "The Four Trilogy",
+        "name": "The Four Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -6847,7 +6847,7 @@
         "manifestData": {
           "type": "movie",
           "id": "thefour_collection",
-          "name": "The Four Trilogy",
+          "name": "The Four Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -6879,7 +6879,7 @@
       {
         "id": "custom.app_movie_collections.movie.ghostbusters_collection",
         "type": "movie",
-        "name": "Ghostbusters Anthology",
+        "name": "Ghostbusters Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -6891,7 +6891,7 @@
         "manifestData": {
           "type": "movie",
           "id": "ghostbusters_collection",
-          "name": "Ghostbusters Anthology",
+          "name": "Ghostbusters Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -6923,7 +6923,7 @@
       {
         "id": "custom.app_movie_collections.movie.gladiator_collection",
         "type": "movie",
-        "name": "Gladiator Saga",
+        "name": "Gladiator Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -6935,7 +6935,7 @@
         "manifestData": {
           "type": "movie",
           "id": "gladiator_collection",
-          "name": "Gladiator Saga",
+          "name": "Gladiator Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -6945,7 +6945,7 @@
       {
         "id": "custom.app_movie_collections.movie.godfather_collection",
         "type": "movie",
-        "name": "The Godfather Trilogy",
+        "name": "The Godfather Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -6957,7 +6957,7 @@
         "manifestData": {
           "type": "movie",
           "id": "godfather_collection",
-          "name": "The Godfather Trilogy",
+          "name": "The Godfather Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -7055,7 +7055,7 @@
       {
         "id": "custom.app_movie_collections.movie.hangover_collection",
         "type": "movie",
-        "name": "The Hangover Trilogy",
+        "name": "The Hangover Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -7067,7 +7067,7 @@
         "manifestData": {
           "type": "movie",
           "id": "hangover_collection",
-          "name": "The Hangover Trilogy",
+          "name": "The Hangover Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -7121,7 +7121,7 @@
       {
         "id": "custom.app_movie_collections.movie.hobbit_collection",
         "type": "movie",
-        "name": "The Hobbit Trilogy",
+        "name": "The Hobbit Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -7133,7 +7133,7 @@
         "manifestData": {
           "type": "movie",
           "id": "hobbit_collection",
-          "name": "The Hobbit Trilogy",
+          "name": "The Hobbit Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -7165,7 +7165,7 @@
       {
         "id": "custom.app_movie_collections.movie.hungergames_collection",
         "type": "movie",
-        "name": "The Hunger Games Saga",
+        "name": "The Hunger Games Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -7177,7 +7177,7 @@
         "manifestData": {
           "type": "movie",
           "id": "hungergames_collection",
-          "name": "The Hunger Games Saga",
+          "name": "The Hunger Games Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -7187,7 +7187,7 @@
       {
         "id": "custom.app_movie_collections.movie.iceage_collection",
         "type": "movie",
-        "name": "Ice Age Saga",
+        "name": "Ice Age Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -7199,7 +7199,7 @@
         "manifestData": {
           "type": "movie",
           "id": "iceage_collection",
-          "name": "Ice Age Saga",
+          "name": "Ice Age Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -7231,7 +7231,7 @@
       {
         "id": "custom.app_movie_collections.movie.indianajones_collection",
         "type": "movie",
-        "name": "Indiana Jones Anthology",
+        "name": "Indiana Jones Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -7243,7 +7243,7 @@
         "manifestData": {
           "type": "movie",
           "id": "indianajones_collection",
-          "name": "Indiana Jones Anthology",
+          "name": "Indiana Jones Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -7275,7 +7275,7 @@
       {
         "id": "custom.app_movie_collections.movie.insidious_collection",
         "type": "movie",
-        "name": "Insidious Anthology",
+        "name": "Insidious Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -7287,7 +7287,7 @@
         "manifestData": {
           "type": "movie",
           "id": "insidious_collection",
-          "name": "Insidious Anthology",
+          "name": "Insidious Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -7297,7 +7297,7 @@
       {
         "id": "custom.app_movie_collections.movie.ipman_collection",
         "type": "movie",
-        "name": "Ip Man Saga",
+        "name": "Ip Man Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -7309,7 +7309,7 @@
         "manifestData": {
           "type": "movie",
           "id": "ipman_collection",
-          "name": "Ip Man Saga",
+          "name": "Ip Man Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -7319,7 +7319,7 @@
       {
         "id": "custom.app_movie_collections.movie.ironman_collection",
         "type": "movie",
-        "name": "Iron Man Trilogy",
+        "name": "Iron Man Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -7331,7 +7331,7 @@
         "manifestData": {
           "type": "movie",
           "id": "ironman_collection",
-          "name": "Iron Man Trilogy",
+          "name": "Iron Man Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -7363,7 +7363,7 @@
       {
         "id": "custom.app_movie_collections.movie.jamesbond_collection",
         "type": "movie",
-        "name": "James Bond (007) Saga",
+        "name": "James Bond (007) Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -7375,7 +7375,7 @@
         "manifestData": {
           "type": "movie",
           "id": "jamesbond_collection",
-          "name": "James Bond (007) Saga",
+          "name": "James Bond (007) Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -7385,7 +7385,7 @@
       {
         "id": "custom.app_movie_collections.movie.jaws_collection",
         "type": "movie",
-        "name": "Jaws Anthology",
+        "name": "Jaws Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -7397,7 +7397,7 @@
         "manifestData": {
           "type": "movie",
           "id": "jaws_collection",
-          "name": "Jaws Anthology",
+          "name": "Jaws Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -7407,7 +7407,7 @@
       {
         "id": "custom.app_movie_collections.movie.johnwick_collection",
         "type": "movie",
-        "name": "John Wick Saga",
+        "name": "John Wick Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -7419,7 +7419,7 @@
         "manifestData": {
           "type": "movie",
           "id": "johnwick_collection",
-          "name": "John Wick Saga",
+          "name": "John Wick Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -7451,7 +7451,7 @@
       {
         "id": "custom.app_movie_collections.movie.jumanji_collection",
         "type": "movie",
-        "name": "Jumanji Anthology",
+        "name": "Jumanji Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -7463,7 +7463,7 @@
         "manifestData": {
           "type": "movie",
           "id": "jumanji_collection",
-          "name": "Jumanji Anthology",
+          "name": "Jumanji Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -7583,7 +7583,7 @@
       {
         "id": "custom.app_movie_collections.movie.kungfupanda_collection",
         "type": "movie",
-        "name": "Kung Fu Panda Saga",
+        "name": "Kung Fu Panda Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -7595,7 +7595,7 @@
         "manifestData": {
           "type": "movie",
           "id": "kungfupanda_collection",
-          "name": "Kung Fu Panda Saga",
+          "name": "Kung Fu Panda Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -7627,7 +7627,7 @@
       {
         "id": "custom.app_movie_collections.movie.lionking_collection",
         "type": "movie",
-        "name": "The Lion King Anthology",
+        "name": "The Lion King Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -7639,7 +7639,7 @@
         "manifestData": {
           "type": "movie",
           "id": "lionking_collection",
-          "name": "The Lion King Anthology",
+          "name": "The Lion King Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -7649,7 +7649,7 @@
       {
         "id": "custom.app_movie_collections.movie.lotr_collection",
         "type": "movie",
-        "name": "The Lord of the Rings Trilogy",
+        "name": "The Lord of the Rings Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -7661,7 +7661,7 @@
         "manifestData": {
           "type": "movie",
           "id": "lotr_collection",
-          "name": "The Lord of the Rings Trilogy",
+          "name": "The Lord of the Rings Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -7715,7 +7715,7 @@
       {
         "id": "custom.app_movie_collections.movie.madmax_collection",
         "type": "movie",
-        "name": "Mad Max Anthology",
+        "name": "Mad Max Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -7727,7 +7727,7 @@
         "manifestData": {
           "type": "movie",
           "id": "madmax_collection",
-          "name": "Mad Max Anthology",
+          "name": "Mad Max Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -7803,7 +7803,7 @@
       {
         "id": "custom.app_movie_collections.movie.matrix_collection",
         "type": "movie",
-        "name": "The Matrix Trilogy",
+        "name": "The Matrix Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -7815,7 +7815,7 @@
         "manifestData": {
           "type": "movie",
           "id": "matrix_collection",
-          "name": "The Matrix Trilogy",
+          "name": "The Matrix Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -7825,7 +7825,7 @@
       {
         "id": "custom.app_movie_collections.movie.mazerunner_collection",
         "type": "movie",
-        "name": "The Maze Runner Trilogy",
+        "name": "The Maze Runner Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -7837,7 +7837,7 @@
         "manifestData": {
           "type": "movie",
           "id": "mazerunner_collection",
-          "name": "The Maze Runner Trilogy",
+          "name": "The Maze Runner Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -7869,7 +7869,7 @@
       {
         "id": "custom.app_movie_collections.movie.mib_collection",
         "type": "movie",
-        "name": "Men In Black Anthology",
+        "name": "Men In Black Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -7881,7 +7881,7 @@
         "manifestData": {
           "type": "movie",
           "id": "mib_collection",
-          "name": "Men In Black Anthology",
+          "name": "Men In Black Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -7913,7 +7913,7 @@
       {
         "id": "custom.app_movie_collections.movie.missionimpossible_collection",
         "type": "movie",
-        "name": "Mission: Impossible Saga",
+        "name": "Mission: Impossible Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -7925,7 +7925,7 @@
         "manifestData": {
           "type": "movie",
           "id": "missionimpossible_collection",
-          "name": "Mission: Impossible Saga",
+          "name": "Mission: Impossible Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -7957,7 +7957,7 @@
       {
         "id": "custom.app_movie_collections.movie.mortalkombat_collection",
         "type": "movie",
-        "name": "Mortal Kombat Anthology",
+        "name": "Mortal Kombat Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -7969,7 +7969,7 @@
         "manifestData": {
           "type": "movie",
           "id": "mortalkombat_collection",
-          "name": "Mortal Kombat Anthology",
+          "name": "Mortal Kombat Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -7979,7 +7979,7 @@
       {
         "id": "custom.app_movie_collections.movie.mummy_collection",
         "type": "movie",
-        "name": "The Mummy Trilogy",
+        "name": "The Mummy Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -7991,7 +7991,7 @@
         "manifestData": {
           "type": "movie",
           "id": "mummy_collection",
-          "name": "The Mummy Trilogy",
+          "name": "The Mummy Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -8067,7 +8067,7 @@
       {
         "id": "custom.app_movie_collections.movie.nezha_collection",
         "type": "movie",
-        "name": "Ne Zha Saga",
+        "name": "Ne Zha Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -8079,7 +8079,7 @@
         "manifestData": {
           "type": "movie",
           "id": "nezha_collection",
-          "name": "Ne Zha Saga",
+          "name": "Ne Zha Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -8177,7 +8177,7 @@
       {
         "id": "custom.app_movie_collections.movie.oceans_collection",
         "type": "movie",
-        "name": "Ocean's Trilogy",
+        "name": "Ocean's Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -8189,7 +8189,7 @@
         "manifestData": {
           "type": "movie",
           "id": "oceans_collection",
-          "name": "Ocean's Trilogy",
+          "name": "Ocean's Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -8243,7 +8243,7 @@
       {
         "id": "custom.app_movie_collections.movie.ongbak_collection",
         "type": "movie",
-        "name": "Ong Bak Saga",
+        "name": "Ong Bak Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -8255,7 +8255,7 @@
         "manifestData": {
           "type": "movie",
           "id": "ongbak_collection",
-          "name": "Ong Bak Saga",
+          "name": "Ong Bak Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -8309,7 +8309,7 @@
       {
         "id": "custom.app_movie_collections.movie.planetoftheapes_collection",
         "type": "movie",
-        "name": "Planet of the Apes Saga",
+        "name": "Planet of the Apes Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -8321,7 +8321,7 @@
         "manifestData": {
           "type": "movie",
           "id": "planetoftheapes_collection",
-          "name": "Planet of the Apes Saga",
+          "name": "Planet of the Apes Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -8397,7 +8397,7 @@
       {
         "id": "custom.app_movie_collections.movie.predator_collection",
         "type": "movie",
-        "name": "Predator Anthology",
+        "name": "Predator Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -8409,7 +8409,7 @@
         "manifestData": {
           "type": "movie",
           "id": "predator_collection",
-          "name": "Predator Anthology",
+          "name": "Predator Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -8507,7 +8507,7 @@
       {
         "id": "custom.app_movie_collections.movie.quietplace_collection",
         "type": "movie",
-        "name": "A Quiet Place Saga",
+        "name": "A Quiet Place Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -8519,7 +8519,7 @@
         "manifestData": {
           "type": "movie",
           "id": "quietplace_collection",
-          "name": "A Quiet Place Saga",
+          "name": "A Quiet Place Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -8551,7 +8551,7 @@
       {
         "id": "custom.app_movie_collections.movie.rambo_collection",
         "type": "movie",
-        "name": "Rambo Anthology",
+        "name": "Rambo Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -8563,7 +8563,7 @@
         "manifestData": {
           "type": "movie",
           "id": "rambo_collection",
-          "name": "Rambo Anthology",
+          "name": "Rambo Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -8683,7 +8683,7 @@
       {
         "id": "custom.app_movie_collections.movie.ringus_collection",
         "type": "movie",
-        "name": "The Ring US Saga",
+        "name": "The Ring US Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -8695,7 +8695,7 @@
         "manifestData": {
           "type": "movie",
           "id": "ringus_collection",
-          "name": "The Ring US Saga",
+          "name": "The Ring US Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -8771,7 +8771,7 @@
       {
         "id": "custom.app_movie_collections.movie.saw_collection",
         "type": "movie",
-        "name": "SAW Anthology",
+        "name": "SAW Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -8783,7 +8783,7 @@
         "manifestData": {
           "type": "movie",
           "id": "saw_collection",
-          "name": "SAW Anthology",
+          "name": "SAW Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -8793,7 +8793,7 @@
       {
         "id": "custom.app_movie_collections.movie.scarymovie_collection",
         "type": "movie",
-        "name": "Scary Movie Anthology",
+        "name": "Scary Movie Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -8805,7 +8805,7 @@
         "manifestData": {
           "type": "movie",
           "id": "scarymovie_collection",
-          "name": "Scary Movie Anthology",
+          "name": "Scary Movie Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -8815,7 +8815,7 @@
       {
         "id": "custom.app_movie_collections.movie.scorpionking_collection",
         "type": "movie",
-        "name": "The Scorpion King Saga",
+        "name": "The Scorpion King Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -8827,7 +8827,7 @@
         "manifestData": {
           "type": "movie",
           "id": "scorpionking_collection",
-          "name": "The Scorpion King Saga",
+          "name": "The Scorpion King Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -8837,7 +8837,7 @@
       {
         "id": "custom.app_movie_collections.movie.scream_collection",
         "type": "movie",
-        "name": "Scream Anthology",
+        "name": "Scream Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -8849,7 +8849,7 @@
         "manifestData": {
           "type": "movie",
           "id": "scream_collection",
-          "name": "Scream Anthology",
+          "name": "Scream Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -8925,7 +8925,7 @@
       {
         "id": "custom.app_movie_collections.movie.shrek_collection",
         "type": "movie",
-        "name": "Shrek Anthology",
+        "name": "Shrek Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -8937,7 +8937,7 @@
         "manifestData": {
           "type": "movie",
           "id": "shrek_collection",
-          "name": "Shrek Anthology",
+          "name": "Shrek Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -9079,7 +9079,7 @@
       {
         "id": "custom.app_movie_collections.movie.spidermanmcu_collection",
         "type": "movie",
-        "name": "Spider-Man MCU Trilogy",
+        "name": "Spider-Man MCU Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -9091,7 +9091,7 @@
         "manifestData": {
           "type": "movie",
           "id": "spidermanmcu_collection",
-          "name": "Spider-Man MCU Trilogy",
+          "name": "Spider-Man MCU Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -9189,7 +9189,7 @@
       {
         "id": "custom.app_movie_collections.movie.starwars_collection",
         "type": "movie",
-        "name": "Star Wars Saga",
+        "name": "Star Wars Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -9201,7 +9201,7 @@
         "manifestData": {
           "type": "movie",
           "id": "starwars_collection",
-          "name": "Star Wars Saga",
+          "name": "Star Wars Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -9233,7 +9233,7 @@
       {
         "id": "custom.app_movie_collections.movie.superman_collection",
         "type": "movie",
-        "name": "Superman Anthology",
+        "name": "Superman Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -9245,7 +9245,7 @@
         "manifestData": {
           "type": "movie",
           "id": "superman_collection",
-          "name": "Superman Anthology",
+          "name": "Superman Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -9343,7 +9343,7 @@
       {
         "id": "custom.app_movie_collections.movie.terminator_collection",
         "type": "movie",
-        "name": "Terminator Anthology",
+        "name": "Terminator Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -9355,7 +9355,7 @@
         "manifestData": {
           "type": "movie",
           "id": "terminator_collection",
-          "name": "Terminator Anthology",
+          "name": "Terminator Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -9387,7 +9387,7 @@
       {
         "id": "custom.app_movie_collections.movie.thor_collection",
         "type": "movie",
-        "name": "Thor Saga",
+        "name": "Thor Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -9399,7 +9399,7 @@
         "manifestData": {
           "type": "movie",
           "id": "thor_collection",
-          "name": "Thor Saga",
+          "name": "Thor Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -9431,7 +9431,7 @@
       {
         "id": "custom.app_movie_collections.movie.toystory_collection",
         "type": "movie",
-        "name": "Toy Story Anthology",
+        "name": "Toy Story Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -9443,7 +9443,7 @@
         "manifestData": {
           "type": "movie",
           "id": "toystory_collection",
-          "name": "Toy Story Anthology",
+          "name": "Toy Story Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -9453,7 +9453,7 @@
       {
         "id": "custom.app_movie_collections.movie.transformers_collection",
         "type": "movie",
-        "name": "Transformers Saga",
+        "name": "Transformers Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -9465,7 +9465,7 @@
         "manifestData": {
           "type": "movie",
           "id": "transformers_collection",
-          "name": "Transformers Saga",
+          "name": "Transformers Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -9541,7 +9541,7 @@
       {
         "id": "custom.app_movie_collections.movie.wolverine_collection",
         "type": "movie",
-        "name": "Wolverine Anthology",
+        "name": "Wolverine Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -9553,7 +9553,7 @@
         "manifestData": {
           "type": "movie",
           "id": "wolverine_collection",
-          "name": "Wolverine Anthology",
+          "name": "Wolverine Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -9585,7 +9585,7 @@
       {
         "id": "custom.app_movie_collections.movie.x_collection",
         "type": "movie",
-        "name": "X Saga",
+        "name": "X Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -9597,7 +9597,7 @@
         "manifestData": {
           "type": "movie",
           "id": "x_collection",
-          "name": "X Saga",
+          "name": "X Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
@@ -9607,7 +9607,7 @@
       {
         "id": "custom.app_movie_collections.movie.xmen_collection",
         "type": "movie",
-        "name": "X-Men Saga",
+        "name": "X-Men Collection",
         "enabled": true,
         "showInHome": false,
         "source": "custom",
@@ -9619,7 +9619,7 @@
         "manifestData": {
           "type": "movie",
           "id": "xmen_collection",
-          "name": "X-Men Saga",
+          "name": "X-Men Collection",
           "idPrefixes": [
             "tt",
             "tmdb:"
