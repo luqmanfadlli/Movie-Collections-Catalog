@@ -24,6 +24,6 @@ To get the full experience with custom posters and organized folders, follow the
 3.  If you haven't installed the AIOMEtadata addons, you can install it here.
 4.  Navigate to **Collection** and import `nuvio-collection.json`.
 
-## Preview
+## 🖼️ Preview
 ![img](preview1.png)
 ![img](preview2.png)
