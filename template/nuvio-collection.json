@@ -525,8 +525,8 @@
         "id": "40000000-0000-4000-8000-000000000001",
         "title": "20th Century Fox",
         "hideTitle": false,
-        "tileShape": "SQUARE",
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/logo/studio/20th-Century-Fox-Emblem.jpg",
         "catalogSources": [
           { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.20th_century_fox.moop7zb9" }
         ],
@@ -536,8 +536,8 @@
         "id": "40000000-0000-4000-8000-000000000002",
         "title": "A24",
         "hideTitle": false,
-        "tileShape": "SQUARE",
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/logo/studio/A24-Logo.jpg",
         "catalogSources": [
           { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.a24.mooouy7k" }
         ],
@@ -547,8 +547,8 @@
         "id": "40000000-0000-4000-8000-000000000003",
         "title": "Blumhouse",
         "hideTitle": false,
-        "tileShape": "SQUARE",
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/logo/studio/Blumhouse.png",
         "catalogSources": [
           { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.blumhouse.mootwbke" }
         ],
@@ -558,8 +558,8 @@
         "id": "40000000-0000-4000-8000-000000000004",
         "title": "Castle Rock Entertainment",
         "hideTitle": false,
-        "tileShape": "SQUARE",
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/smyTD67uNsdaySnnjVDmh0kyotp.png",
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/logo/studio/Castle-Rock-Ent.png",
         "catalogSources": [
           { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.castle_rock_entertainment.modhfng2" }
         ],
@@ -569,8 +569,8 @@
         "id": "40000000-0000-4000-8000-000000000005",
         "title": "CJ Entertainment",
         "hideTitle": false,
-        "tileShape": "SQUARE",
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/javbyY0ZCvlFJtly3tpZqf2NwLX.png",
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/logo/studio/CJ-Entertainment-Logo.jpg",
         "catalogSources": [
           { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.cj_entertainment.modhomjd" }
         ],
@@ -580,8 +580,8 @@
         "id": "40000000-0000-4000-8000-000000000006",
         "title": "DC Films",
         "hideTitle": false,
-        "tileShape": "SQUARE",
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/logo/studio/DC-Films.png",
         "catalogSources": [
           { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.dc_films.mokuh84x" }
         ],
@@ -591,8 +591,8 @@
         "id": "40000000-0000-4000-8000-000000000007",
         "title": "DreamWorks Animation",
         "hideTitle": false,
-        "tileShape": "SQUARE",
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/3BPX5VGBov8SDqTV7wC1L1xShAS.png",
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/logo/studio/DreamWorks-Animation-Logo-2016-present.jpg",
         "catalogSources": [
           { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.dreamworks_animation.modh2la1" }
         ],
@@ -602,8 +602,8 @@
         "id": "40000000-0000-4000-8000-000000000008",
         "title": "DreamWorks Pictures",
         "hideTitle": false,
-        "tileShape": "SQUARE",
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/3BPX5VGBov8SDqTV7wC1L1xShAS.png",
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/logo/studio/DreamWorks-Animation-Logo-2016-present.jpg",
         "catalogSources": [
           { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.dreamworks_pictures.modh3ih8" }
         ],
@@ -613,8 +613,8 @@
         "id": "40000000-0000-4000-8000-000000000009",
         "title": "IDN Pictures",
         "hideTitle": false,
-        "tileShape": "SQUARE",
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/3qmWxHJ31E12QiuTmv2YRDQInZk.png",
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/logo/studio/IDN-Pictures.png",
         "catalogSources": [
           { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.idn_pictures.mokur0ue" }
         ],
@@ -624,8 +624,8 @@
         "id": "40000000-0000-4000-8000-000000000010",
         "title": "Imajinari",
         "hideTitle": false,
-        "tileShape": "SQUARE",
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/wHlXlFytVFeJ2evm4eCD40IFIpp.png",
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/logo/studio/Imajinari.png",
         "catalogSources": [
           { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.imajinari.mokupjh7" }
         ],
@@ -635,8 +635,8 @@
         "id": "40000000-0000-4000-8000-000000000011",
         "title": "Lionsgate",
         "hideTitle": false,
-        "tileShape": "SQUARE",
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/logo/studio/Lionsgate-Films-Logo.jpg",
         "catalogSources": [
           { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.lionsgate.mokuicz4" }
         ],
@@ -646,8 +646,8 @@
         "id": "40000000-0000-4000-8000-000000000012",
         "title": "Marvel Studios",
         "hideTitle": false,
-        "tileShape": "SQUARE",
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/logo/studio/Marvel-Studios-Logo.jpg",
         "catalogSources": [
           { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.marvel_studios.modhqdnb" }
         ],
@@ -657,8 +657,8 @@
         "id": "40000000-0000-4000-8000-000000000013",
         "title": "MD Pictures",
         "hideTitle": false,
-        "tileShape": "SQUARE",
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/QDZf41MZk122e61pZ4IDhwRGkW.png",
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/logo/studio/MD-Pictures.png",
         "catalogSources": [
           { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.md_pictures.mokun8su" }
         ],
@@ -668,8 +668,8 @@
         "id": "40000000-0000-4000-8000-000000000014",
         "title": "Miramax",
         "hideTitle": false,
-        "tileShape": "SQUARE",
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/logo/studio/Miramax-Logo.jpg",
         "catalogSources": [
           { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.miramax.modhlre5" }
         ],
@@ -679,8 +679,8 @@
         "id": "40000000-0000-4000-8000-000000000015",
         "title": "New Line Cinema",
         "hideTitle": false,
-        "tileShape": "SQUARE",
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/logo/studio/New-Line-Cinema-Logo.jpg",
         "catalogSources": [
           { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.new_line_cinema.modhkis9" }
         ],
@@ -690,8 +690,8 @@
         "id": "40000000-0000-4000-8000-000000000016",
         "title": "Paramount Pictures",
         "hideTitle": false,
-        "tileShape": "SQUARE",
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/logo/studio/Paramount-Pictures-Logo.jpg",
         "catalogSources": [
           { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.paramount.mootv89b" }
         ],
@@ -701,8 +701,8 @@
         "id": "40000000-0000-4000-8000-000000000017",
         "title": "Pixar",
         "hideTitle": false,
-        "tileShape": "SQUARE",
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/logo/studio/Pixar-Emblem.jpg",
         "catalogSources": [
           { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.pixar.modgv9sz" }
         ],
@@ -712,8 +712,8 @@
         "id": "40000000-0000-4000-8000-000000000018",
         "title": "Rapi Films",
         "hideTitle": false,
-        "tileShape": "SQUARE",
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/5zodgZbBTlY5PAviS6KxOCyOlGH.png",
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/logo/studio/Rapi-Films.png",
         "catalogSources": [
           { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.rapi_film.mokxfeb3" }
         ],
@@ -723,8 +723,8 @@
         "id": "40000000-0000-4000-8000-000000000019",
         "title": "SinemArt",
         "hideTitle": false,
-        "tileShape": "SQUARE",
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/yAqitOd5LbZ00ChUf4UqwxrWm6W.png",
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/logo/studio/SinemArt.png",
         "catalogSources": [
           { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.sinemart.mokulam1" }
         ],
@@ -734,8 +734,8 @@
         "id": "40000000-0000-4000-8000-000000000020",
         "title": "Sony Pictures",
         "hideTitle": false,
-        "tileShape": "SQUARE",
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/5jNRqXspCmQ3XkHNzuZIbvnHOWw.png",
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/logo/studio/Sony-Pictures-Entertainment-Logo.jpg",
         "catalogSources": [
           { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.sony_pictures.mokudzf7" }
         ],
@@ -745,8 +745,8 @@
         "id": "40000000-0000-4000-8000-000000000021",
         "title": "Studio Ghibli",
         "hideTitle": false,
-        "tileShape": "SQUARE",
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/uFuxPEZRUcBTEiYIxjHJq62Vr77.png",
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/logo/studio/Studio-Ghibli-Symbol.png",
         "catalogSources": [
           { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.studio_ghibli.modh0bi6" }
         ],
@@ -756,8 +756,8 @@
         "id": "40000000-0000-4000-8000-000000000022",
         "title": "Universal Pictures",
         "hideTitle": false,
-        "tileShape": "SQUARE",
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/logo/studio/Universal-Studios-Logo.png",
         "catalogSources": [
           { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.universal_pictures.moku93zw" }
         ],
@@ -767,8 +767,8 @@
         "id": "40000000-0000-4000-8000-000000000023",
         "title": "Walt Disney Pictures",
         "hideTitle": false,
-        "tileShape": "SQUARE",
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/logo/studio/Walt-Disney-Pictures-Emblem.jpg",
         "catalogSources": [
           { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.walt_disney_pictures.modhcx6l" }
         ],
@@ -778,8 +778,8 @@
         "id": "40000000-0000-4000-8000-000000000024",
         "title": "Warner Bros Pictures",
         "hideTitle": false,
-        "tileShape": "SQUARE",
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/logo/studio/Warner-Brothers-Logo.jpg",
         "catalogSources": [
           { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.warner_bros_pictures.mokuc111" }
         ],
@@ -789,8 +789,8 @@
         "id": "40000000-0000-4000-8000-000000000025",
         "title": "Vivamax",
         "hideTitle": false,
-        "tileShape": "SQUARE",
-        "coverImageUrl": "https://media.themoviedb.org/t/p/original/25oYoXHsfWYlddAzJSBReajN3BM.png",
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://luqmanfadlli.github.io/Movie-Collections-Catalog/logo/studio/Vivamax.png",
         "catalogSources": [
           { "type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.movie.vivamax.mokx4xgm" },
           { "type": "series", "genre": "None", "addonId": "aio-metadata", "catalogId": "tmdb.discover.series.vivamax.mokx5h2q" }
@@ -2307,7 +2307,7 @@
         "title": "Surf's Up Collection",
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverImageUrl": null,
+        "coverImageUrl": "https://media.themoviedb.org/t/p/original/7h8x4evTAlErpv7OQwCLpS0KLXm.jpg",
         "catalogSources": [{"type": "movie", "genre": "None", "addonId": "aio-metadata", "catalogId": "custom.app_movie_collections.movie.surfsup_collection"}],
         "focusGifEnabled": true
       },
