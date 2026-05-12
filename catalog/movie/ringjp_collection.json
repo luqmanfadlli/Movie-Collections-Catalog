@@ -3,11 +3,11 @@
     { "id": "tmdb:9674", "type": "movie" },
     { "id": "tmdb:2671", "type": "movie" },
     { "id": "tmdb:9669", "type": "movie" },
-    { "id": "tmdb:9706", "type": "movie" }
-    { "id": "tmdb:140441", "type": "movie" }
-    { "id": "tmdb:257527", "type": "movie" }
-    { "id": "tmdb:382602", "type": "movie" }
-    { "id": "tmdb:583132", "type": "movie" }
+    { "id": "tmdb:9706", "type": "movie" },
+    { "id": "tmdb:140441", "type": "movie" },
+    { "id": "tmdb:257527", "type": "movie" },
+    { "id": "tmdb:382602", "type": "movie" },
+    { "id": "tmdb:583132", "type": "movie" },
     { "id": "tmdb:940417", "type": "movie" }
   ]
 }
